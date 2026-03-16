@@ -1,0 +1,32 @@
+{
+    "name": "ycookies/scheduling",
+    "alias": "定时任务管理",
+    "description": "定时任务管理",
+    "type": "library",
+    "keywords": ["dcat-admin", "extension"],
+    "homepage": "https://github.com/ycookies/scheduling",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "杨光",
+            "email": "3664839@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "dcat/laravel-admin": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dcat\\Admin\\Scheduling\\": "src/"
+        }
+    },
+    "extra": {
+        "dcat-admin": "Dcat\\Admin\\Scheduling\\SchedulingServiceProvider",
+        "laravel": {
+            "providers": [
+                "Dcat\\Admin\\Scheduling\\SchedulingServiceProvider"
+            ]
+        }
+    }
+}

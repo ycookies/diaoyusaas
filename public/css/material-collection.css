@@ -1,0 +1,87 @@
+.wx-wrap{width:1184px;margin:0 auto;}
+.header{position:relative;background:#fff;}
+.header .logo{float:left;padding:27px 0;/*margin-right:30px;*/}
+.header .main-logo{float:left;width:264px;margin-right:12px;background:url("https://gtimg.wechatpay.cn/pay/img/common/logo.svg?v=20190225") no-repeat, none;}
+.header .main-logo.partner{width:280px;background:url("//gtimg.wechatpay.cn/resource/xres/wechat_pay_system/merchant_basic/pay/common/image/wechat_partner_logo.png?v=20230628") no-repeat;background:url("//gtimg.wechatpay.cn/resource/xres/wechat_pay_system/merchant_basic/pay/common/image/wechat_partner_logo.svg?v=20230628") no-repeat, none;}
+.header .main-logo.ticket{width:148px;background:url("../../img/common/logo_ticket.png?v=20190225") no-repeat center;}
+.header .main-logo a{display:block;height:34px;line-height:999px;overflow:hidden;}
+.header .sub-logo{float:left;width:100px;height:18px;margin-top:7px;display:none;}
+.header .nav{float:right;padding-top:9px;margin-right:-25px;}
+.header .nav li{float:left;}
+.header .nav li a{display:block;padding:20px 25px;color:#333;font-size:16px;position:relative;}
+.header .nav li a:hover{color:#00c250;text-decoration:none;}
+.header .nav .selected a,.header .nav .selected a:hover{color:#00c250;}
+.header .nav .selected a:after{content:"";position:absolute;width:36px;height:3px;bottom:10px;left:50%;margin-left:-18px;background:#00c250;border-radius:1px;}
+
+.header .link{display:none;float:right;padding-top:24px;}
+.header .link a{display:block;float:left;line-height:30px;padding:3px 5px 0;margin:0 20px;color:#333;vertical-align:middle;border-bottom:3px solid #fff;}
+.header .link a:hover{color:#00c250;text-decoration:none;}
+.header .link .btn-apply,.header .link .btn-apply:hover{display:inline-block;min-width:6px;height:38px;line-height:38px;padding:0 25px;margin:0 0 0 20px;border:none;color:#fff;}
+.help-block ul{padding: 0px !important;}
+.col-md-1 .box{
+    background: transparent !important;
+    box-shadow:none;
+}
+.web-uploader .placeholder{
+    width: 200px;
+}
+.queueList{
+    width: 220px;
+    float: left;
+}
+.clearf{
+    clear: both;
+}
+
+.indoor_pic_box .queueList,.indoor_pic_box .web-uploader{
+    width: 100% !important;
+}
+.el-image img{
+    width: 100%;
+    height: 100%;
+}
+.upload-img-demo{
+    margin-left: 20px;
+    display: inline-block;
+}
+.form-upload-img-demo{
+    width: 200px;
+    height: 200px;
+    border-radius: 4px;
+    margin: 0 8px;
+    position: relative;
+    overflow: hidden;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.form-upload-img-demo-wrap{
+    position: absolute;
+    background-color: rgba(0,0,0,.5);
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: #fff;
+    text-align: center;
+    line-height: 64px;
+    cursor: pointer;
+    pointer-events: none;
+}
+.el-image {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+}
+.el-image__preview{
+    cursor: pointer;
+}
+.el-image__inner{
+    vertical-align: top;
+}

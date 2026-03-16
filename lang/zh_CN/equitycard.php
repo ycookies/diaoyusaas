@@ -1,0 +1,36 @@
+<?php
+return [
+    'labels'  => [
+        'Equitycard' => '权益卡',
+        'equitycard' => '权益卡',
+    ],
+    'fields'  => [
+        'seller_id'   => '门店ID',
+        'template_id' => '支付宝卡包id',
+        'user_id'     => '用户id',
+        'name'        => '名称',
+        'code'        => 'code',
+        'attribute'   => '卡类型',
+        'type'        => '发布类型',
+        'card_type'   => '类型',
+        'rebate'      => '折扣',
+        'cost'        => '价格',
+        'img'         => '背景图',
+        'logo'        => 'logo图',
+        'privilege'   => '权益卡特权',
+        'introduce'   => '权益卡说明',
+        'agreement'   => '权益卡协议',
+        'sort'        => '排序',
+        'weixin_rate' => '微信手续费率',
+        'status'      => '是否上架',
+        'is_add'      => '1有2无',
+        'day_num'     => '每日次数',
+        'total_num'   => '总次数',
+        'time'        => '时间',
+        'uniacid'     => '小程序id',
+        'created_at'  => '创建时间',
+        'updated_at'  => '更新时间',
+    ],
+    'options' => [
+    ],
+];

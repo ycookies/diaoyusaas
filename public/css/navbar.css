@@ -1,0 +1,113 @@
+.sidebar-light-primary .nav-item>.nav-link.active{
+    /*background: linear-gradient(to right,var(--color) 0%,var(--color-sub) 100%);*/
+    /*background: linear-gradient(to right,hsl(226.52deg 36.03% 48.43%) 0%,hsl(180.64deg 97.49% 41.19%) 100%);*/
+    background: linear-gradient(to left,hsl(226.52deg 36.03% 48.43%) 0%,hsl(223.92deg 85.64% 70.69%) 100%);
+    box-shadow: 0 10px 13px 0 rgba(0, 0, 255, 0.2);
+    border-radius: 8px;
+    color: var(--font-white, #fff)!important;
+    z-index: 1;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+[class*=sidebar-light-] .nav-treeview>.nav-item>.nav-link.active, [class*=sidebar-light-] .nav-treeview>.nav-item>.nav-link.active:hover{
+    /*background: linear-gradient(to right,var(--color) 0%,var(--color-sub) 100%);*/
+    background: linear-gradient(to right,hsl(226.52deg 36.03% 48.43%) 0%,hsl(223.92deg 85.64% 70.69%) 100%);
+    box-shadow: 0 10px 13px 0 rgba(0, 0, 255, 0.2);
+}
+[class*=sidebar-light-] .nav-sidebar>.nav-item>.nav-treeview{
+    padding-top: 5px;
+    /*background: #d0e9c75c;*/
+}
+.hide-menu{display: none;}.show-menu{display: block;}
+
+.navbar-left .active{
+    color: var(--font-white, #fff)!important;
+    border: 0;
+    background:linear-gradient(to left,hsl(226.52deg 36.03% 48.43%) 0%,hsl(223.92deg 85.64% 70.69%) 100%);
+    box-shadow:0 10px 13px 0 rgba(0, 0, 255, 0.2);
+}
+.nav-items{
+    height: 38px!important;
+    line-height: 38px!important;
+    color: var(--font-black);
+    border-radius: 8px;
+    font-weight: 700;
+    margin: 0 4px!important;
+    border: 0;
+    padding: 0px min(1.1vw,20px);
+    float: none;
+    display: inline-block;
+}
+.nav-parent-0{
+    height: 0px;
+    padding: 0px !important;
+    margin: 0px;
+    margin-top:-15px;
+}
+:root {
+    --h: 149;
+    --s: 93%;
+    --l: 39%;
+    --l-dark: calc(var(--l) - 5%);
+    --hsl: var(--h), var(--s), var(--l);
+    --hsl-dark: var(--h), var(--s), var(--l-dark);
+    --color: hsl(var(--hsl));
+    --color-dark: hsl(var(--hsl-dark));
+    --color-sub: hsl(91, 70%, 57%);
+    --color-success: #07c160;
+    --color-warning: #faad14;
+    --color-danger: #eb5e12;
+    --border-radius: 8px;
+    --border-radius-small: 4px;
+    --border-radius-big: 16px;
+    --card-margin: 16px;
+    --top-nav-heght: 64px;
+    --step: calc((100% - var(--l)) / 10);
+    --color-light-1: hsl(var(--h), var(--s), calc(var(--step) * 1 + var(--l)));
+    --color-light-2: hsl(var(--h), var(--s), calc(var(--step) * 2 + var(--l)));
+    --color-light-3: hsl(var(--h), var(--s), calc(var(--step) * 3 + var(--l)));
+    --color-light-4: hsl(var(--h), var(--s), calc(var(--step) * 4 + var(--l)));
+    --color-light-5: hsl(var(--h), var(--s), calc(var(--step) * 5 + var(--l)));
+    --color-light-6: hsl(var(--h), var(--s), calc(var(--step) * 6 + var(--l)));
+    --color-light-7: hsl(var(--h), var(--s), calc(var(--step) * 7 + var(--l)));
+    --color-light-8: hsl(var(--h), var(--s), calc(var(--step) * 8 + var(--l)));
+    --color-light-9: hsl(var(--h), var(--s), calc(var(--step) * 9 + var(--l)));
+    --color-light-10: hsl(var(--h), var(--s), calc(var(--step) * 9.5 + var(--l)));
+    --font-white: #fff;
+    --font-black: #1d2129;
+    --font-black-2: hsl(0, 0%, 20%);
+    --font-black-3: hsl(0, 0%, 30%);
+    --font-black-4: hsl(0, 0%, 40%);
+    --font-black-5: hsl(0, 0%, 50%);
+    --font-black-6: hsl(0, 0%, 60%);
+    --font-black-7: hsl(0, 0%, 70%);
+    --font-black-8: hsl(0, 0%, 80%);
+    --font-black-9: hsl(0, 0%, 90%);
+    --border-white: #fff;
+    --border-black: #1d2129;
+    --border-black-2: hsl(0, 0%, 20%);
+    --border-black-3: hsl(0, 0%, 30%);
+    --border-black-4: hsl(0, 0%, 40%);
+    --border-black-5: hsl(0, 0%, 50%);
+    --border-black-6: hsl(0, 0%, 60%);
+    --border-black-7: hsl(0, 0%, 70%);
+    --border-black-8: hsl(0, 0%, 80%);
+    --border-black-9: hsl(0, 0%, 90%);
+    --border-black-10: hsl(0, 0%, 95%);
+    --border-black-11: hsl(0, 0%, 97%);
+    --bg-white: #fff;
+    --bg-black: #000;
+    --bg-black-1-2: hsl(0, 0%, 3%);
+    --bg-black-1-1: hsl(0, 0%, 5%);
+    --bg-black-1: hsl(0, 0%, 10%);
+    --bg-black-2: hsl(0, 0%, 20%);
+    --bg-black-3: hsl(0, 0%, 30%);
+    --bg-black-4: hsl(0, 0%, 40%);
+    --bg-black-5: hsl(0, 0%, 50%);
+    --bg-black-6: hsl(0, 0%, 60%);
+    --bg-black-7: hsl(0, 0%, 70%);
+    --bg-black-8: hsl(0, 0%, 80%);
+    --bg-black-9: hsl(0, 0%, 90%);
+    --bg-black-10: hsl(0, 0%, 95%);
+    --bg-black-11: hsl(0, 0%, 97%);
+}

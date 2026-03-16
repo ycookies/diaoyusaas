@@ -1,0 +1,32 @@
+{
+    "name": "jyounglabs/media-center",
+    "alias": "媒体中心",
+    "description": "管理网站媒体文件等...",
+    "type": "library",
+    "keywords": ["dcat-admin", "extension"],
+    "homepage": "https://github.com/jyounglabs/media-center",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jyoung",
+            "email": "pagopagi@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "dcat/laravel-admin": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jyounglabs\\": "src/"
+        }
+    },
+    "extra": {
+        "dcat-admin": "Jyounglabs\\MediaCenterServiceProvider",
+        "laravel": {
+            "providers": [
+                "Jyounglabs\\MediaCenterServiceProvider"
+            ]
+        }
+    }
+}

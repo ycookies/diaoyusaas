@@ -1,0 +1,32 @@
+{
+    "name": "ycookies/log-viewer",
+    "alias": "系统日志查看器",
+    "description": "方便快速的查看系统报错日志",
+    "type": "library",
+    "keywords": ["dcat-admin", "extension"],
+    "homepage": "https://github.com/ycookies/log-viewer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "杨光",
+            "email": "3664839@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "dcat/laravel-admin": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dcat\\Admin\\LogViewer\\": "src/"
+        }
+    },
+    "extra": {
+        "dcat-admin": "Dcat\\Admin\\LogViewer\\LogViewerServiceProvider",
+        "laravel": {
+            "providers": [
+                "Dcat\\Admin\\LogViewer\\LogViewerServiceProvider"
+            ]
+        }
+    }
+}

@@ -1,0 +1,20 @@
+.price_set{
+    font-size: 14px;
+}
+.f12{font-size: 12px;}
+.f14{font-size: 14px;}
+.fline{line-height: 12px}
+.price_set:hover{
+    color: #FFAA3E;
+}
+.price_set:active{
+    color: #FFAA3E;
+}
+.booking-danger{
+    color: #FFFFFF;
+    background-color: #ff4718;
+}
+.booking-full{
+    color: #FFFFFF;
+    background-color: orange;
+}

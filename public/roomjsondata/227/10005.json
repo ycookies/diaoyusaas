@@ -1,0 +1,5343 @@
+{
+  "activityTags": null,
+  "roomInfoName": "特色休闲房",
+  "minAveragePriceSubTotal": 498,
+  "minAveragePrice": 498,
+  "minCouponValue": 40,
+  "minSalePriceToCouponValue": 40,
+  "partPrice": null,
+  "productPriceInfo": {
+    "firstDayPricePayment": 0,
+    "firstDayPriceOrigin": 0,
+    "firstDayPriceRmb": 0,
+    "exchangeRate": 1,
+    "exchangeRatePayment": 1,
+    "dayPrices": [
+      {
+        "date": "2024-12-18",
+        "price": 0,
+        "rmbPrice": 0,
+        "originPrice": 0,
+        "hasBreakFast": false,
+        "breakFastNumber": 0,
+        "breakFastDescribe": null,
+        "saleCost": 0,
+        "bonusSaleCost": 0,
+        "addBedPriceOrigin": 0,
+        "status": null,
+        "salePriceWithDrrSubCoupon": 0,
+        "currency": "RMB",
+        "currencyPayment": "RMB",
+        "taxPrice": 0,
+        "taxPriceOrigin": 0,
+        "taxPriceRmb": 0,
+        "exchangeRate": 1,
+        "exchangeRatePayment": 1,
+        "breakfastInfoToShow": null,
+        "dayMealDesc": null,
+        "addBed": null
+      }
+    ],
+    "totalTaxPriceRmb": 0,
+    "totalTaxPrice": 0,
+    "totalTaxPriceOrigin": 0,
+    "totalPriceOrigin": 0,
+    "totalPricePayment": 0,
+    "totalPriceRmb": 0,
+    "totalPriceSubCoupon": 0,
+    "averagePriceSubCoupon": 0,
+    "averagePriceOrigin": 0,
+    "averagePriceRmb": 0,
+    "averagePricePayment": 0,
+    "averageTaxPriceOrigin": 0,
+    "averageTaxPriceRmb": 0,
+    "averageTaxPrice": 0,
+    "rebateTotalPrice": 0,
+    "rebateSum": 0,
+    "totalPromotionPrice": 40,
+    "totalPrice": 498,
+    "totalPricePromotionBefore": 538,
+    "averageTotalPrice": 498,
+    "pricePromotionBefore": 538,
+    "pricePromotionBeforeD": 538,
+    "priceSubCoupon": 498,
+    "priceSubCouponD": 498,
+    "additionaltax": null,
+    "googlePriceFA": null,
+    "totalPriceCouponD": 40
+  },
+  "area": "38㎡",
+  "bed": "大床2米",
+  "areaAdvantage": null,
+  "goodRate": null,
+  "commentCount": null,
+  "hasHongBao": 0,
+  "hasReduce": 0,
+  "hasCoupon": 0,
+  "showPayType": 0,
+  "imageList": [
+    "https://pavo.elongstatic.com/i/ori/nw_1gzuYel0CZi.jpg"
+  ],
+  "videoList": null,
+  "imageListSize": 1,
+  "windowFlag": true,
+  "windowSpcDesp": "",
+  "rpList": [
+    {
+      "activity": null,
+      "activityTags": [],
+      "ratePlanInfo": {
+        "ratePlanBreakFastName": "无餐食",
+        "heChengMainTitle": null,
+        "heChengSubTitle": null,
+        "heChengRpBedTypeProperty": null,
+        "heChengRpHourRoomProperty": null,
+        "cancelRuleTag": null,
+        "passthroughInfo": null,
+        "cancelRuleVisualization": null,
+        "productPromotions": null,
+        "excitationText": null,
+        "applicablePeopleTipsB": null,
+        "accidentInsurance": false
+      },
+      "productName": "无餐食",
+      "productNameNew": null,
+      "minStocks": -1,
+      "available": 1,
+      "showPayType": 2,
+      "showAvourableType": 0,
+      "originalPriceRmb": 498,
+      "averagePrice": 538,
+      "averagePriceSubTotal": 498,
+      "averagePriceDecimal": 538,
+      "averagePriceSubTotalDecimal": 498,
+      "hongBaoVal": 0,
+      "couponVal": 40,
+      "allCouponVal": 40,
+      "allCouponValD": 40,
+      "fullAmount": 0,
+      "cutAmount": 0,
+      "partPrice": null,
+      "hongbaoFlag": 0,
+      "fullCutFlag": 0,
+      "appPromotionFlag": false,
+      "appPromotionUrl": null,
+      "windowFlag": true,
+      "windowDesp": "有窗",
+      "windowSpcDesp": "",
+      "giftDesc": "",
+      "additionInfoList": [
+        {
+          "key": "area",
+          "desp": "房间面积",
+          "content": "38㎡",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "bed",
+          "desp": "床型",
+          "content": "大床2米",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "window",
+          "desp": "有窗无窗/部分有窗",
+          "content": "有窗",
+          "contenTip": "",
+          "icontent": "有窗"
+        },
+        {
+          "key": "network",
+          "desp": "上网方式",
+          "content": "",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "floor",
+          "desp": "楼层",
+          "content": "2-5层(普通楼层)",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "personnum",
+          "desp": "可入住人数",
+          "content": "可入住2人",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "breakfast",
+          "desp": "早餐",
+          "content": "无早",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "smoke",
+          "desp": "吸烟政策",
+          "content": "禁止吸烟",
+          "contenTip": "",
+          "icontent": ""
+        }
+      ],
+      "guestType": 2,
+      "bookUrl": "/hotel/book?hotelid=01936001&uniqueid=01936001%3A3934%3A361415814%3A4_0_5459_00%2300%3A1&roomid=3934&rateplanid=361415814&ismj=1&checkindate=2024-12-18&checkoutdate=2024-12-19&mroomid=0004&drvtype=0&goodsuniqueid=91662630A3934A361415814A0Ae8231f3d476a9d1940fd9e576d5b89f2&isclockhotel=false&adultsNumber=2&childrenAges=",
+      "cancelType": 1,
+      "cancelRelType": 3,
+      "cancelMsg": "您可以在2024年12月18日18:00前免费取消或变更订单；在2024年12月18日18:00之后变更或取消，将收取全额房费作为违约费用。",
+      "cancelMsgLocal": "您可以在2024年12月18日18:00前免费取消或变更订单；在2024年12月18日18:00之后变更或取消，将收取全额房费作为违约费用。",
+      "supplierId": 151330,
+      "supplierType": 2,
+      "isFakeClockRoom": 0,
+      "fakeClockRoomDesc": null,
+      "supplierName": null,
+      "hbtag": 0,
+      "extraBedInfo": "不可加床",
+      "tipsList": [
+        {
+          "tipName": "便利设施",
+          "tipContent": "空调,多种规格电源插座,遮光窗帘,自动窗帘,床具:毯子或被子,衣柜/衣橱,220V电压插座,沙发",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "卫浴设施",
+          "tipContent": "拖鞋,24小时热水,吹风机,私人浴室,私人卫生间",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "电器多媒体",
+          "tipContent": "电脑,国际长途电话,有线频道,液晶电视机",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "食品饮品",
+          "tipContent": "电热水壶,咖啡壶/茶壶,瓶装水免费",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "其他",
+          "tipContent": "如需要麻将机，需要补差价",
+          "mainSort": 0,
+          "subSort": 0
+        }
+      ],
+      "appHalfCount": 0,
+      "productType": 3,
+      "roomType": 0,
+      "stayTime": "",
+      "officeHours": null,
+      "stayAllTime": 0,
+      "area": null,
+      "bed": null,
+      "areaAdvantage": null,
+      "goodRate": null,
+      "commentCount": null,
+      "nRoom": -1,
+      "specialRoomName": "",
+      "specialRateplanName": "",
+      "describe": "",
+      "hongBaoType": 0,
+      "cancelTag": "限时取消",
+      "imgList": [
+        "https://pavo.elongstatic.com/i/ori/nw_1gzuYel0CZi.jpg"
+      ],
+      "videoList": null,
+      "tags": [
+        {
+          "id": -1,
+          "name": "立即确认",
+          "description": "订单提交后，酒店将第一时间确认您的订单",
+          "colorIndex": 0,
+          "available": true,
+          "color": "#4499ff",
+          "price": null,
+          "promotionFlag": 0
+        }
+      ],
+      "productSubName": "",
+      "ratePlanId": 361415814,
+      "advantageousText": [
+        "限时取消"
+      ],
+      "recommendText": "",
+      "recommendTag": null,
+      "productRecommendType": 0,
+      "roomId": "3934",
+      "mRoomId": "0004",
+      "promotionId": null,
+      "boTaoRpDescription": "",
+      "showPromTypeEntityList": [
+        {
+          "showPromType": 63,
+          "showPromTypeName": "可用红包",
+          "describe": "使用红包下单即可享受每晚立减40元",
+          "price": "40",
+          "allPrice": "40"
+        }
+      ],
+      "breakNum": 0,
+      "closed": 0,
+      "closingTime": null,
+      "lateCheckInTime": null,
+      "lastCheckInTime": null,
+      "earlyArriveDate": "",
+      "lateArriveDate": "",
+      "surplusHours": 0,
+      "sign": 0,
+      "srId": "bSHnynXTv2XZjBZhnbTPwoQP13wvC/27QPExuqZNSDh2DM1341Sp0srk9V1ybT//22j9KOGrkPxWb2CKzUKD4quCt6Er5q7NPOj3ilSN6B+BjevoqJQJ+8vZxHT4NczR+yMOm0mNGPQ=",
+      "cancelRuleVisualization": {
+        "freeCancelRuleShowDesc": "今天18点前免费取消",
+        "intFreeCancelRuleShowDesc": "今天18点前免费取消",
+        "freeCancelRuleShowDescLocal": "今天18点前免费取消",
+        "showDescColorIndex": "#43C19E",
+        "cancelRuleTables": [
+          {
+            "ruleTime": "北京时间",
+            "ruleLocalTime": "酒店当地时间",
+            "amount": "取消&修改费用",
+            "clolor": null,
+            "point": null
+          },
+          {
+            "ruleTime": "12-18 18:00 前",
+            "ruleLocalTime": "12-18 18:00 前",
+            "amount": "免费取消",
+            "clolor": "#43C19E",
+            "point": null
+          },
+          {
+            "ruleTime": "12-18 18:00 后",
+            "ruleLocalTime": "12-18 18:00 后",
+            "amount": "不可取消",
+            "clolor": null,
+            "point": null
+          }
+        ],
+        "intCancelRuleTables": [
+          {
+            "hotelLocalBeginTime": -28800000,
+            "hotelLocalEndTime": 1734516000000,
+            "guestLocalBeginTime": -28800000,
+            "guestLocalEndTime": 1734516000000,
+            "cancelDesc": "免费取消",
+            "cancelType": 0,
+            "amountPayment": null
+          },
+          {
+            "hotelLocalBeginTime": 1734516000000,
+            "hotelLocalEndTime": 4102329600000,
+            "guestLocalBeginTime": 1734516000000,
+            "guestLocalEndTime": 4102329600000,
+            "cancelDesc": "不可取消",
+            "cancelType": 2,
+            "amountPayment": null
+          }
+        ],
+        "cancelType": 3,
+        "cancelTimeLimit": 0
+      },
+      "productupgradingType": 0,
+      "productFlagItems": null,
+      "lastRoom": 0,
+      "unitPrice": null,
+      "goodsUniqId": "91662630A3934A361415814A0Ae8231f3d476a9d1940fd9e576d5b89f2",
+      "uniqueIdShow": "lm5b89f2",
+      "leisureRoomType": 0,
+      "leisureTipList": [],
+      "leisureTags": [],
+      "personNum": 2,
+      "reachPersonNum": 1,
+      "interProductExtend": null,
+      "productPriceInfo": {
+        "firstDayPricePayment": 0,
+        "firstDayPriceOrigin": 0,
+        "firstDayPriceRmb": 0,
+        "exchangeRate": 1,
+        "exchangeRatePayment": 1,
+        "dayPrices": [
+          {
+            "date": "2024-12-18",
+            "price": 0,
+            "rmbPrice": 0,
+            "originPrice": 0,
+            "hasBreakFast": false,
+            "breakFastNumber": 0,
+            "breakFastDescribe": null,
+            "saleCost": 0,
+            "bonusSaleCost": 0,
+            "addBedPriceOrigin": 0,
+            "status": null,
+            "salePriceWithDrrSubCoupon": 0,
+            "currency": "RMB",
+            "currencyPayment": "RMB",
+            "taxPrice": 0,
+            "taxPriceOrigin": 0,
+            "taxPriceRmb": 0,
+            "exchangeRate": 1,
+            "exchangeRatePayment": 1,
+            "breakfastInfoToShow": null,
+            "dayMealDesc": null,
+            "addBed": null
+          }
+        ],
+        "totalTaxPriceRmb": 0,
+        "totalTaxPrice": 0,
+        "totalTaxPriceOrigin": 0,
+        "totalPriceOrigin": 0,
+        "totalPricePayment": 0,
+        "totalPriceRmb": 0,
+        "totalPriceSubCoupon": 0,
+        "averagePriceSubCoupon": 0,
+        "averagePriceOrigin": 0,
+        "averagePriceRmb": 0,
+        "averagePricePayment": 0,
+        "averageTaxPriceOrigin": 0,
+        "averageTaxPriceRmb": 0,
+        "averageTaxPrice": 0,
+        "rebateTotalPrice": 0,
+        "rebateSum": 0,
+        "totalPromotionPrice": 40,
+        "totalPrice": 498,
+        "totalPricePromotionBefore": 538,
+        "averageTotalPrice": 498,
+        "pricePromotionBefore": 538,
+        "pricePromotionBeforeD": 538,
+        "priceSubCoupon": 498,
+        "priceSubCouponD": 498,
+        "additionaltax": null,
+        "googlePriceFA": null,
+        "totalPriceCouponD": 40
+      },
+      "bookingProduct": 0,
+      "giftPackages": null,
+      "limitSale": 0,
+      "remainTime": -1,
+      "ratePlanName": "标准价",
+      "productLabelList": [
+        {
+          "productLabelId": 23,
+          "productLabelName": "可用券",
+          "productLabelDesc": "下单即可享受红包优惠{0}元",
+          "productLabelSubtitle": "下单即可享受红包优惠",
+          "productLabelTypeId": 200,
+          "productLabelTypeName": "平台优惠",
+          "amount": 40,
+          "allAmount": 40,
+          "promotionCalcTypes": [
+            63
+          ],
+          "ctripPromotionId": null,
+          "promotionMethod": 1,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        },
+        {
+          "productLabelId": 247,
+          "productLabelName": "赠送里程",
+          "productLabelDesc": "本订单离店后可获得{0}倍里程",
+          "productLabelSubtitle": "本订单离店后可获得{0}倍里程",
+          "productLabelTypeId": 300,
+          "productLabelTypeName": "服务",
+          "amount": 0,
+          "allAmount": 0,
+          "promotionCalcTypes": null,
+          "ctripPromotionId": null,
+          "promotionMethod": 0,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        },
+        {
+          "productLabelId": 77,
+          "productLabelName": "立即确认",
+          "productLabelDesc": "订单提交后，酒店将第一时间确认您的订单",
+          "productLabelSubtitle": "订单提交后，酒店将第一时间确认您的订单",
+          "productLabelTypeId": 300,
+          "productLabelTypeName": "服务",
+          "amount": 0,
+          "allAmount": 0,
+          "promotionCalcTypes": null,
+          "ctripPromotionId": null,
+          "promotionMethod": 0,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        },
+        {
+          "productLabelId": 146,
+          "productLabelName": "可开专票",
+          "productLabelDesc": "该产品支持开具专票",
+          "productLabelSubtitle": "该产品支持开具专票",
+          "productLabelTypeId": 300,
+          "productLabelTypeName": "服务",
+          "amount": 0,
+          "allAmount": 0,
+          "promotionCalcTypes": null,
+          "ctripPromotionId": null,
+          "promotionMethod": 0,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        }
+      ],
+      "invoiceMode": 1,
+      "entitlementCloudList": null,
+      "promotion": null,
+      "entitlementCloudFreeRoom": 0,
+      "freeRoomPoints": null,
+      "directSale": 0,
+      "mileageRatioInfo": {
+        "totalRatio": 1,
+        "memberRatio": 1,
+        "productRatio": 1,
+        "maxAddTimes": null,
+        "maxAmount": null,
+        "activityMaxTimeAddAmount": null
+      },
+      "roomCategory": null,
+      "roomBedShowInfo": {
+        "listShowInfoShort": "1张2.0米特大床",
+        "listShowInfo": "1张2.0米特大床",
+        "extraBedShowInfo": "收费加床：每人每晚￥ 200",
+        "maxPersonNumber": null
+      },
+      "roomBedInfos": [
+        {
+          "roomDetailBed": [
+            {
+              "roomName": null,
+              "bedGroups": [
+                {
+                  "bedInfos": [
+                    {
+                      "bedTypeId": 1301,
+                      "bedWidth": 2,
+                      "bedCount": 1,
+                      "bedName": null,
+                      "bedNameEn": null,
+                      "remark": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "livingRoomBed": null
+        }
+      ],
+      "roomPropertyShowInfos": [
+        {
+          "facilityTypeId": 999,
+          "facilityTypeName": null,
+          "facilityTypeNameCn": null,
+          "iconUrl": null,
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": -1,
+              "facilityName": "楼层",
+              "facilityNameCn": "楼层",
+              "memo": "2-5层",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -2,
+              "facilityName": "房型面积",
+              "facilityNameCn": "房型面积",
+              "memo": "38m²",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -3,
+              "facilityName": "客房WIFI信息",
+              "facilityNameCn": "客房WIFI信息",
+              "memo": "WIFI免费",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -4,
+              "facilityName": "有窗",
+              "facilityNameCn": "有窗",
+              "memo": "有窗",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -5,
+              "facilityName": "禁烟",
+              "facilityNameCn": "禁烟",
+              "memo": "禁烟",
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 42,
+          "facilityTypeName": "网络与通讯",
+          "facilityTypeNameCn": "网络与通讯",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/042.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 2635,
+              "facilityName": "客房有线宽带",
+              "facilityNameCn": "客房有线宽带",
+              "memo": null,
+              "roomTypeTags": [
+                {
+                  "desc": "免费",
+                  "stress": "green"
+                }
+              ]
+            },
+            {
+              "facilityId": 1376,
+              "facilityName": "客房WIFI覆盖",
+              "facilityNameCn": "客房WIFI覆盖",
+              "memo": null,
+              "roomTypeTags": [
+                {
+                  "desc": "免费",
+                  "stress": "green"
+                }
+              ]
+            },
+            {
+              "facilityId": 77,
+              "facilityName": "国际长途电话",
+              "facilityNameCn": "国际长途电话",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 43,
+          "facilityTypeName": "客房布局",
+          "facilityTypeNameCn": "客房布局",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/044.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 131,
+              "facilityName": "沙发",
+              "facilityNameCn": "沙发",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1252,
+              "facilityName": "衣柜/衣橱",
+              "facilityNameCn": "衣柜/衣橱",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 45,
+          "facilityTypeName": "客房设施",
+          "facilityTypeNameCn": "客房设施",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/051.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 1242,
+              "facilityName": "遮光窗帘",
+              "facilityNameCn": "遮光窗帘",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1243,
+              "facilityName": "自动窗帘",
+              "facilityNameCn": "自动窗帘",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1250,
+              "facilityName": "床具:毯子或被子",
+              "facilityNameCn": "床具:毯子或被子",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 75,
+              "facilityName": "空调",
+              "facilityNameCn": "空调",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 7,
+          "facilityTypeName": "卫浴设施",
+          "facilityTypeNameCn": "卫浴设施",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/066.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 1270,
+              "facilityName": "24小时热水",
+              "facilityNameCn": "24小时热水",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 156,
+              "facilityName": "私人浴室",
+              "facilityNameCn": "私人浴室",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 149,
+              "facilityName": "私人卫生间",
+              "facilityNameCn": "私人卫生间",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 112,
+              "facilityName": "吹风机",
+              "facilityNameCn": "吹风机",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 109,
+              "facilityName": "拖鞋",
+              "facilityNameCn": "拖鞋",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 5,
+          "facilityTypeName": "媒体科技",
+          "facilityTypeNameCn": "媒体科技",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/048.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 1258,
+              "facilityName": "有线频道",
+              "facilityNameCn": "有线频道",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1259,
+              "facilityName": "液晶电视机",
+              "facilityNameCn": "液晶电视机",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1149,
+              "facilityName": "电脑",
+              "facilityNameCn": "电脑",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 6,
+          "facilityTypeName": "食品饮品",
+          "facilityTypeNameCn": "食品饮品",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/055.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 2254,
+              "facilityName": "咖啡壶/茶壶",
+              "facilityNameCn": "咖啡壶/茶壶",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 119,
+              "facilityName": "瓶装水",
+              "facilityNameCn": "瓶装水",
+              "memo": null,
+              "roomTypeTags": [
+                {
+                  "desc": "免费",
+                  "stress": "green"
+                }
+              ]
+            },
+            {
+              "facilityId": 82,
+              "facilityName": "电热水壶",
+              "facilityNameCn": "电热水壶",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 4,
+          "facilityTypeName": "便利设施",
+          "facilityTypeNameCn": "便利设施",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitieTypeIcons/004.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 113,
+              "facilityName": "多种规格电源插座",
+              "facilityNameCn": "多种规格电源插座",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 130,
+              "facilityName": "220V电压插座",
+              "facilityNameCn": "220V电压插座",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        }
+      ],
+      "defect": "",
+      "roomExtendInfo": {
+        "adultStandard": null,
+        "allowChildrenStayName": "该房型欢迎携带儿童入住",
+        "bedInfo": {
+          "head": [
+            "年龄",
+            "床铺",
+            "费用"
+          ],
+          "footer": [
+            "该房型提供加床",
+            "加婴儿床政策请详询酒店"
+          ],
+          "description": [
+            "超过入住人数时，可能涉及额外费用，收费规则如下"
+          ],
+          "title": "床铺",
+          "details": [
+            {
+              "column1": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "17岁及以下"
+              },
+              "column3": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "免费"
+              },
+              "column2": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "使用现有床铺"
+              }
+            },
+            {
+              "column1": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "18岁及以上"
+              },
+              "column3": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "每人每晚￥ 200"
+              },
+              "column2": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "加床"
+              }
+            }
+          ]
+        },
+        "breakfastInfo": null
+      },
+      "roomSpecialInfo": {
+        "limitInfo": "仅接待持有中国内地签发的有效居民身份证的客人",
+        "certificationInfo": "需携带所有入住人的有效身份证，一人一证办理入住。",
+        "commentInfo": "如需要麻将机，需要补差价"
+      },
+      "personNumDesc": "可入住2人",
+      "breakNumDesc": "无早",
+      "hotelMeals": {
+        "mealCopywriting": "无餐食",
+        "hasMealTableDesc": true,
+        "dayMealTable": [
+          {
+            "date": 1734451200,
+            "dayMealCopywriting": "无餐食",
+            "useDynamicMeal": false,
+            "dynamicMealDesc": null,
+            "breakfastShare": 0,
+            "breakfastDesc": "",
+            "lunchShare": 0,
+            "lunchDesc": "",
+            "dinnerShare": 0,
+            "dinnerDesc": "",
+            "dateStr": null
+          },
+          {
+            "date": 1734537600,
+            "dayMealCopywriting": "无餐食",
+            "useDynamicMeal": false,
+            "dynamicMealDesc": null,
+            "breakfastShare": 0,
+            "breakfastDesc": "",
+            "lunchShare": 0,
+            "lunchDesc": "",
+            "dinnerShare": 0,
+            "dinnerDesc": "",
+            "dateStr": null
+          }
+        ]
+      },
+      "hasBreakfast": false,
+      "currencyPayment": "RMB",
+      "enterpriseCashBackProduct": false,
+      "totalCoupon": 0,
+      "ctripGroupMemberFlagNew": 0,
+      "ifReigsterGroup": false,
+      "groupMemberFlagNew": 0,
+      "doneRegister": false,
+      "thirdpartyMemberGradeDesc": null,
+      "thirdpartyMemberExpiredTime": null,
+      "groupMemberInfo": null,
+      "instalmentPayment": null,
+      "incomeIds": {
+        "63": "4316861940713783302"
+      },
+      "applicableNationalityText": "此价格仅适用中国大陆客人",
+      "cLongProduct": false,
+      "setVouch": false,
+      "decimal": false,
+      "boTaoRP": false,
+      "rateplanStructureNameCn": "无餐食",
+      "onTimeConfirm": true
+    },
+    {
+      "activity": null,
+      "activityTags": [],
+      "ratePlanInfo": {
+        "ratePlanBreakFastName": "2份早餐",
+        "heChengMainTitle": null,
+        "heChengSubTitle": [],
+        "heChengRpBedTypeProperty": null,
+        "heChengRpHourRoomProperty": null,
+        "cancelRuleTag": null,
+        "passthroughInfo": null,
+        "cancelRuleVisualization": null,
+        "productPromotions": null,
+        "excitationText": null,
+        "applicablePeopleTipsB": null,
+        "accidentInsurance": false
+      },
+      "productName": "2份早餐",
+      "productNameNew": null,
+      "minStocks": -1,
+      "available": 1,
+      "showPayType": 2,
+      "showAvourableType": 0,
+      "originalPriceRmb": 547,
+      "averagePrice": 547,
+      "averagePriceSubTotal": 547,
+      "averagePriceDecimal": 547,
+      "averagePriceSubTotalDecimal": 547,
+      "hongBaoVal": 0,
+      "couponVal": 0,
+      "allCouponVal": 0,
+      "allCouponValD": 0,
+      "fullAmount": 0,
+      "cutAmount": 0,
+      "partPrice": null,
+      "hongbaoFlag": 0,
+      "fullCutFlag": 0,
+      "appPromotionFlag": false,
+      "appPromotionUrl": null,
+      "windowFlag": true,
+      "windowDesp": "有窗",
+      "windowSpcDesp": "",
+      "giftDesc": "",
+      "additionInfoList": [
+        {
+          "key": "area",
+          "desp": "房间面积",
+          "content": "38㎡",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "bed",
+          "desp": "床型",
+          "content": "大床2米",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "window",
+          "desp": "有窗无窗/部分有窗",
+          "content": "有窗",
+          "contenTip": "",
+          "icontent": "有窗"
+        },
+        {
+          "key": "network",
+          "desp": "上网方式",
+          "content": "",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "floor",
+          "desp": "楼层",
+          "content": "2-5层(普通楼层)",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "personnum",
+          "desp": "可入住人数",
+          "content": "可入住2人",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "breakfast",
+          "desp": "早餐",
+          "content": "双早",
+          "contenTip": "",
+          "icontent": ""
+        }
+      ],
+      "guestType": 1,
+      "bookUrl": "/hotel/book?hotelid=01936001&uniqueid=01936001%3A0001%3A338137469%3A4_0_5459_00%2300%3A1&roomid=0001&rateplanid=338137469&ismj=1&checkindate=2024-12-18&checkoutdate=2024-12-19&mroomid=0004&drvtype=0&goodsuniqueid=21435100A1A338137469A0Ad7bed10f2f8d9589ad1861117927c460&isclockhotel=false&adultsNumber=2&childrenAges=",
+      "cancelType": 2,
+      "cancelRelType": 4,
+      "cancelMsg": "您的订单一经确认，不可变更或取消；如未能如约入住，将收取全额房费作为违约费用。",
+      "cancelMsgLocal": "您的订单一经确认，不可变更或取消；如未能如约入住，将收取全额房费作为违约费用。",
+      "supplierId": 331332,
+      "supplierType": 1,
+      "isFakeClockRoom": 0,
+      "fakeClockRoomDesc": null,
+      "supplierName": null,
+      "hbtag": 0,
+      "extraBedInfo": "不可加床",
+      "tipsList": [
+        {
+          "tipName": "便利设施",
+          "tipContent": "空调,多种规格电源插座,遮光窗帘,自动窗帘,床具:毯子或被子,衣柜/衣橱,220V电压插座,沙发",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "卫浴设施",
+          "tipContent": "拖鞋,24小时热水,吹风机,私人浴室,私人卫生间",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "电器多媒体",
+          "tipContent": "电脑,国际长途电话,有线频道,液晶电视机",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "食品饮品",
+          "tipContent": "电热水壶,咖啡壶/茶壶,瓶装水免费",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "其他",
+          "tipContent": "如需要麻将机，需要补差价",
+          "mainSort": 0,
+          "subSort": 0
+        }
+      ],
+      "appHalfCount": 0,
+      "productType": 3,
+      "roomType": 0,
+      "stayTime": "",
+      "officeHours": null,
+      "stayAllTime": 0,
+      "area": null,
+      "bed": null,
+      "areaAdvantage": null,
+      "goodRate": null,
+      "commentCount": null,
+      "nRoom": -1,
+      "specialRoomName": "",
+      "specialRateplanName": "",
+      "describe": "",
+      "hongBaoType": 0,
+      "cancelTag": "不可取消",
+      "imgList": [
+        "https://pavo.elongstatic.com/i/ori/nw_1gzuYel0CZi.jpg"
+      ],
+      "videoList": null,
+      "tags": [],
+      "productSubName": "",
+      "ratePlanId": 338137469,
+      "advantageousText": [
+        "不可取消",
+        "同程艺龙"
+      ],
+      "recommendText": "",
+      "recommendTag": null,
+      "productRecommendType": 0,
+      "roomId": "0001",
+      "mRoomId": "0004",
+      "promotionId": null,
+      "boTaoRpDescription": "",
+      "showPromTypeEntityList": [],
+      "breakNum": 2,
+      "closed": 0,
+      "closingTime": null,
+      "lateCheckInTime": null,
+      "lastCheckInTime": null,
+      "earlyArriveDate": "",
+      "lateArriveDate": "",
+      "surplusHours": 0,
+      "sign": 0,
+      "srId": "bSHnynXTv2XZjBZhnbTPwoQP13wvC/27QPExuqZNSDh2DM1341Sp0srk9V1ybT//22j9KOGrkPxWb2CKzUKD4raabFIycwATpIDT6OKSjV8f0HcNBlpCjOAP4vc5CrO6wmAY4N9uCtc=",
+      "cancelRuleVisualization": {
+        "freeCancelRuleShowDesc": "该订单确认后将不可取消或变更",
+        "intFreeCancelRuleShowDesc": "不可取消",
+        "freeCancelRuleShowDescLocal": "该订单确认后将不可取消或变更",
+        "showDescColorIndex": "#43C19E",
+        "cancelRuleTables": null,
+        "intCancelRuleTables": null,
+        "cancelType": 2,
+        "cancelTimeLimit": 0
+      },
+      "productupgradingType": 0,
+      "productFlagItems": null,
+      "lastRoom": 0,
+      "unitPrice": null,
+      "goodsUniqId": "21435100A1A338137469A0Ad7bed10f2f8d9589ad1861117927c460",
+      "uniqueIdShow": "g227c460",
+      "leisureRoomType": 0,
+      "leisureTipList": [],
+      "leisureTags": [],
+      "personNum": 2,
+      "reachPersonNum": 1,
+      "interProductExtend": null,
+      "productPriceInfo": {
+        "firstDayPricePayment": 0,
+        "firstDayPriceOrigin": 0,
+        "firstDayPriceRmb": 0,
+        "exchangeRate": 1,
+        "exchangeRatePayment": 1,
+        "dayPrices": [
+          {
+            "date": "2024-12-18",
+            "price": 0,
+            "rmbPrice": 0,
+            "originPrice": 0,
+            "hasBreakFast": false,
+            "breakFastNumber": 0,
+            "breakFastDescribe": null,
+            "saleCost": 0,
+            "bonusSaleCost": 0,
+            "addBedPriceOrigin": 0,
+            "status": null,
+            "salePriceWithDrrSubCoupon": 0,
+            "currency": "RMB",
+            "currencyPayment": "RMB",
+            "taxPrice": 0,
+            "taxPriceOrigin": 0,
+            "taxPriceRmb": 0,
+            "exchangeRate": 1,
+            "exchangeRatePayment": 1,
+            "breakfastInfoToShow": null,
+            "dayMealDesc": null,
+            "addBed": null
+          }
+        ],
+        "totalTaxPriceRmb": 0,
+        "totalTaxPrice": 0,
+        "totalTaxPriceOrigin": 0,
+        "totalPriceOrigin": 0,
+        "totalPricePayment": 0,
+        "totalPriceRmb": 0,
+        "totalPriceSubCoupon": 0,
+        "averagePriceSubCoupon": 0,
+        "averagePriceOrigin": 0,
+        "averagePriceRmb": 0,
+        "averagePricePayment": 0,
+        "averageTaxPriceOrigin": 0,
+        "averageTaxPriceRmb": 0,
+        "averageTaxPrice": 0,
+        "rebateTotalPrice": 0,
+        "rebateSum": 0,
+        "totalPromotionPrice": 0,
+        "totalPrice": 547,
+        "totalPricePromotionBefore": 547,
+        "averageTotalPrice": 547,
+        "pricePromotionBefore": 547,
+        "pricePromotionBeforeD": 547,
+        "priceSubCoupon": 547,
+        "priceSubCouponD": 547,
+        "additionaltax": null,
+        "googlePriceFA": null,
+        "totalPriceCouponD": 0
+      },
+      "bookingProduct": 0,
+      "giftPackages": null,
+      "limitSale": 0,
+      "remainTime": -1,
+      "ratePlanName": "预付",
+      "productLabelList": [
+        {
+          "productLabelId": 247,
+          "productLabelName": "赠送里程",
+          "productLabelDesc": "本订单离店后可获得{0}倍里程",
+          "productLabelSubtitle": "本订单离店后可获得{0}倍里程",
+          "productLabelTypeId": 300,
+          "productLabelTypeName": "服务",
+          "amount": 0,
+          "allAmount": 0,
+          "promotionCalcTypes": null,
+          "ctripPromotionId": null,
+          "promotionMethod": 0,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        }
+      ],
+      "invoiceMode": 2,
+      "entitlementCloudList": null,
+      "promotion": null,
+      "entitlementCloudFreeRoom": 0,
+      "freeRoomPoints": null,
+      "directSale": 0,
+      "mileageRatioInfo": {
+        "totalRatio": 1,
+        "memberRatio": 1,
+        "productRatio": 1,
+        "maxAddTimes": null,
+        "maxAmount": null,
+        "activityMaxTimeAddAmount": null
+      },
+      "roomCategory": null,
+      "roomBedShowInfo": {
+        "listShowInfoShort": "1张2.0米特大床",
+        "listShowInfo": "1张2.0米特大床",
+        "extraBedShowInfo": "收费加床：每人每晚￥ 200",
+        "maxPersonNumber": null
+      },
+      "roomBedInfos": [
+        {
+          "roomDetailBed": [
+            {
+              "roomName": null,
+              "bedGroups": [
+                {
+                  "bedInfos": [
+                    {
+                      "bedTypeId": 1301,
+                      "bedWidth": 2,
+                      "bedCount": 1,
+                      "bedName": null,
+                      "bedNameEn": null,
+                      "remark": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "livingRoomBed": null
+        }
+      ],
+      "roomPropertyShowInfos": [
+        {
+          "facilityTypeId": 999,
+          "facilityTypeName": null,
+          "facilityTypeNameCn": null,
+          "iconUrl": null,
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": -1,
+              "facilityName": "楼层",
+              "facilityNameCn": "楼层",
+              "memo": "2-5层",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -2,
+              "facilityName": "房型面积",
+              "facilityNameCn": "房型面积",
+              "memo": "38m²",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -3,
+              "facilityName": "客房WIFI信息",
+              "facilityNameCn": "客房WIFI信息",
+              "memo": "WIFI免费",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -4,
+              "facilityName": "有窗",
+              "facilityNameCn": "有窗",
+              "memo": "有窗",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -5,
+              "facilityName": "禁烟",
+              "facilityNameCn": "禁烟",
+              "memo": "禁烟",
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 42,
+          "facilityTypeName": "网络与通讯",
+          "facilityTypeNameCn": "网络与通讯",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/042.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 2635,
+              "facilityName": "客房有线宽带",
+              "facilityNameCn": "客房有线宽带",
+              "memo": null,
+              "roomTypeTags": [
+                {
+                  "desc": "免费",
+                  "stress": "green"
+                }
+              ]
+            },
+            {
+              "facilityId": 1376,
+              "facilityName": "客房WIFI覆盖",
+              "facilityNameCn": "客房WIFI覆盖",
+              "memo": null,
+              "roomTypeTags": [
+                {
+                  "desc": "免费",
+                  "stress": "green"
+                }
+              ]
+            },
+            {
+              "facilityId": 77,
+              "facilityName": "国际长途电话",
+              "facilityNameCn": "国际长途电话",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 43,
+          "facilityTypeName": "客房布局",
+          "facilityTypeNameCn": "客房布局",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/044.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 131,
+              "facilityName": "沙发",
+              "facilityNameCn": "沙发",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1252,
+              "facilityName": "衣柜/衣橱",
+              "facilityNameCn": "衣柜/衣橱",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 45,
+          "facilityTypeName": "客房设施",
+          "facilityTypeNameCn": "客房设施",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/051.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 1242,
+              "facilityName": "遮光窗帘",
+              "facilityNameCn": "遮光窗帘",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1243,
+              "facilityName": "自动窗帘",
+              "facilityNameCn": "自动窗帘",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1250,
+              "facilityName": "床具:毯子或被子",
+              "facilityNameCn": "床具:毯子或被子",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 75,
+              "facilityName": "空调",
+              "facilityNameCn": "空调",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 7,
+          "facilityTypeName": "卫浴设施",
+          "facilityTypeNameCn": "卫浴设施",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/066.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 1270,
+              "facilityName": "24小时热水",
+              "facilityNameCn": "24小时热水",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 156,
+              "facilityName": "私人浴室",
+              "facilityNameCn": "私人浴室",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 149,
+              "facilityName": "私人卫生间",
+              "facilityNameCn": "私人卫生间",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 112,
+              "facilityName": "吹风机",
+              "facilityNameCn": "吹风机",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 109,
+              "facilityName": "拖鞋",
+              "facilityNameCn": "拖鞋",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 5,
+          "facilityTypeName": "媒体科技",
+          "facilityTypeNameCn": "媒体科技",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/048.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 1258,
+              "facilityName": "有线频道",
+              "facilityNameCn": "有线频道",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1259,
+              "facilityName": "液晶电视机",
+              "facilityNameCn": "液晶电视机",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1149,
+              "facilityName": "电脑",
+              "facilityNameCn": "电脑",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 6,
+          "facilityTypeName": "食品饮品",
+          "facilityTypeNameCn": "食品饮品",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/055.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 2254,
+              "facilityName": "咖啡壶/茶壶",
+              "facilityNameCn": "咖啡壶/茶壶",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 119,
+              "facilityName": "瓶装水",
+              "facilityNameCn": "瓶装水",
+              "memo": null,
+              "roomTypeTags": [
+                {
+                  "desc": "免费",
+                  "stress": "green"
+                }
+              ]
+            },
+            {
+              "facilityId": 82,
+              "facilityName": "电热水壶",
+              "facilityNameCn": "电热水壶",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 4,
+          "facilityTypeName": "便利设施",
+          "facilityTypeNameCn": "便利设施",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitieTypeIcons/004.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 113,
+              "facilityName": "多种规格电源插座",
+              "facilityNameCn": "多种规格电源插座",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 130,
+              "facilityName": "220V电压插座",
+              "facilityNameCn": "220V电压插座",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        }
+      ],
+      "defect": "",
+      "roomExtendInfo": {
+        "adultStandard": null,
+        "allowChildrenStayName": "该房型欢迎携带儿童入住",
+        "bedInfo": {
+          "head": [
+            "年龄",
+            "床铺",
+            "费用"
+          ],
+          "footer": [
+            "该房型提供加床",
+            "加婴儿床政策请详询酒店"
+          ],
+          "description": [
+            "超过入住人数时，可能涉及额外费用，收费规则如下"
+          ],
+          "title": "床铺",
+          "details": [
+            {
+              "column1": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "17岁及以下"
+              },
+              "column3": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "免费"
+              },
+              "column2": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "使用现有床铺"
+              }
+            },
+            {
+              "column1": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "18岁及以上"
+              },
+              "column3": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "每人每晚￥ 200"
+              },
+              "column2": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "加床"
+              }
+            }
+          ]
+        },
+        "breakfastInfo": null
+      },
+      "roomSpecialInfo": {
+        "limitInfo": "仅接待持有中国内地签发的有效居民身份证的客人",
+        "certificationInfo": "需携带所有入住人的有效身份证，一人一证办理入住。",
+        "commentInfo": "如需要麻将机，需要补差价"
+      },
+      "personNumDesc": "可入住2人",
+      "breakNumDesc": "双早",
+      "hotelMeals": {
+        "mealCopywriting": "2份早餐",
+        "hasMealTableDesc": true,
+        "dayMealTable": [
+          {
+            "date": 1734451200,
+            "dayMealCopywriting": "无餐食",
+            "useDynamicMeal": false,
+            "dynamicMealDesc": null,
+            "breakfastShare": 0,
+            "breakfastDesc": "",
+            "lunchShare": 0,
+            "lunchDesc": "",
+            "dinnerShare": 0,
+            "dinnerDesc": "",
+            "dateStr": null
+          },
+          {
+            "date": 1734537600,
+            "dayMealCopywriting": "2份早餐/间",
+            "useDynamicMeal": false,
+            "dynamicMealDesc": null,
+            "breakfastShare": 2,
+            "breakfastDesc": "2份早餐",
+            "lunchShare": 0,
+            "lunchDesc": "",
+            "dinnerShare": 0,
+            "dinnerDesc": "",
+            "dateStr": null
+          }
+        ]
+      },
+      "hasBreakfast": true,
+      "currencyPayment": "RMB",
+      "enterpriseCashBackProduct": false,
+      "totalCoupon": 0,
+      "ctripGroupMemberFlagNew": 0,
+      "ifReigsterGroup": false,
+      "groupMemberFlagNew": 0,
+      "doneRegister": false,
+      "thirdpartyMemberGradeDesc": null,
+      "thirdpartyMemberExpiredTime": null,
+      "groupMemberInfo": null,
+      "instalmentPayment": null,
+      "incomeIds": null,
+      "applicableNationalityText": null,
+      "cLongProduct": false,
+      "setVouch": false,
+      "decimal": false,
+      "boTaoRP": false,
+      "rateplanStructureNameCn": "2份早餐",
+      "onTimeConfirm": false
+    },
+    {
+      "activity": null,
+      "activityTags": [],
+      "ratePlanInfo": {
+        "ratePlanBreakFastName": "2份早餐",
+        "heChengMainTitle": null,
+        "heChengSubTitle": null,
+        "heChengRpBedTypeProperty": null,
+        "heChengRpHourRoomProperty": null,
+        "cancelRuleTag": null,
+        "passthroughInfo": null,
+        "cancelRuleVisualization": null,
+        "productPromotions": null,
+        "excitationText": null,
+        "applicablePeopleTipsB": null,
+        "accidentInsurance": false
+      },
+      "productName": "2份早餐",
+      "productNameNew": null,
+      "minStocks": -1,
+      "available": 1,
+      "showPayType": 2,
+      "showAvourableType": 0,
+      "originalPriceRmb": 790,
+      "averagePrice": 838,
+      "averagePriceSubTotal": 790,
+      "averagePriceDecimal": 838,
+      "averagePriceSubTotalDecimal": 790,
+      "hongBaoVal": 0,
+      "couponVal": 48,
+      "allCouponVal": 48,
+      "allCouponValD": 48,
+      "fullAmount": 0,
+      "cutAmount": 0,
+      "partPrice": null,
+      "hongbaoFlag": 0,
+      "fullCutFlag": 0,
+      "appPromotionFlag": false,
+      "appPromotionUrl": null,
+      "windowFlag": true,
+      "windowDesp": "有窗",
+      "windowSpcDesp": "",
+      "giftDesc": "1.森林温泉成人票(入住期间不限次入园)2份\n接待时间：09:00-23:00；适用人数：1人；联系电话：+86-18970048616；预约规则：无需提前预约；\n特别说明：森林温泉成人票(入住期间不限次入园)：获取方式：酒店前台\n入住期间有效\n入住期间不限次进入",
+      "additionInfoList": [
+        {
+          "key": "area",
+          "desp": "房间面积",
+          "content": "38㎡",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "bed",
+          "desp": "床型",
+          "content": "大床2米",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "window",
+          "desp": "有窗无窗/部分有窗",
+          "content": "有窗",
+          "contenTip": "",
+          "icontent": "有窗"
+        },
+        {
+          "key": "network",
+          "desp": "上网方式",
+          "content": "",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "floor",
+          "desp": "楼层",
+          "content": "2-5层(普通楼层)",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "personnum",
+          "desp": "可入住人数",
+          "content": "可入住2人",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "breakfast",
+          "desp": "早餐",
+          "content": "双早",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "smoke",
+          "desp": "吸烟政策",
+          "content": "禁止吸烟",
+          "contenTip": "",
+          "icontent": ""
+        }
+      ],
+      "guestType": 2,
+      "bookUrl": "/hotel/book?hotelid=01936001&uniqueid=01936001%3A3325%3A262272747%3A4_0_5459_00%2300%3A1&roomid=3325&rateplanid=262272747&ismj=1&checkindate=2024-12-18&checkoutdate=2024-12-19&mroomid=0004&drvtype=0&goodsuniqueid=91662630A3325A262272747A0A33a62a1741bc721540db9195edb7bd29&isclockhotel=false&adultsNumber=2&childrenAges=",
+      "cancelType": 2,
+      "cancelRelType": 4,
+      "cancelMsg": "您的订单一经确认，不可变更或取消；如未能如约入住，将收取全额房费作为违约费用。",
+      "cancelMsgLocal": "您的订单一经确认，不可变更或取消；如未能如约入住，将收取全额房费作为违约费用。",
+      "supplierId": 151330,
+      "supplierType": 2,
+      "isFakeClockRoom": 0,
+      "fakeClockRoomDesc": null,
+      "supplierName": null,
+      "hbtag": 0,
+      "extraBedInfo": "不可加床",
+      "tipsList": [
+        {
+          "tipName": "便利设施",
+          "tipContent": "空调,多种规格电源插座,遮光窗帘,自动窗帘,床具:毯子或被子,衣柜/衣橱,220V电压插座,沙发",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "卫浴设施",
+          "tipContent": "拖鞋,24小时热水,吹风机,私人浴室,私人卫生间",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "电器多媒体",
+          "tipContent": "电脑,国际长途电话,有线频道,液晶电视机",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "食品饮品",
+          "tipContent": "电热水壶,咖啡壶/茶壶,瓶装水免费",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "其他",
+          "tipContent": "如需要麻将机，需要补差价",
+          "mainSort": 0,
+          "subSort": 0
+        }
+      ],
+      "appHalfCount": 0,
+      "productType": 3,
+      "roomType": 0,
+      "stayTime": "",
+      "officeHours": null,
+      "stayAllTime": 0,
+      "area": null,
+      "bed": null,
+      "areaAdvantage": null,
+      "goodRate": null,
+      "commentCount": null,
+      "nRoom": -1,
+      "specialRoomName": "",
+      "specialRateplanName": "",
+      "describe": "",
+      "hongBaoType": 0,
+      "cancelTag": "不可取消",
+      "imgList": [
+        "https://pavo.elongstatic.com/i/ori/nw_1gzuYel0CZi.jpg"
+      ],
+      "videoList": null,
+      "tags": [
+        {
+          "id": -1,
+          "name": "立即确认",
+          "description": "订单提交后，酒店将第一时间确认您的订单",
+          "colorIndex": 0,
+          "available": true,
+          "color": "#4499ff",
+          "price": null,
+          "promotionFlag": 0
+        },
+        {
+          "id": 15,
+          "name": "含礼包",
+          "description": "1.森林温泉成人票(入住期间不限次入园)2份\n接待时间：09:00-23:00；适用人数：1人；联系电话：+86-18970048616；预约规则：无需提前预约；\n特别说明：森林温泉成人票(入住期间不限次入园)：获取方式：酒店前台\n入住期间有效\n入住期间不限次进入",
+          "colorIndex": 0,
+          "available": true,
+          "color": "#4499ff",
+          "price": null,
+          "promotionFlag": 0
+        }
+      ],
+      "productSubName": "",
+      "ratePlanId": 262272747,
+      "advantageousText": [
+        "不可取消"
+      ],
+      "recommendText": "",
+      "recommendTag": null,
+      "productRecommendType": 0,
+      "roomId": "3325",
+      "mRoomId": "0004",
+      "promotionId": null,
+      "boTaoRpDescription": "",
+      "showPromTypeEntityList": [
+        {
+          "showPromType": 63,
+          "showPromTypeName": "可用红包",
+          "describe": "使用红包下单即可享受每晚立减48元",
+          "price": "48",
+          "allPrice": "48"
+        }
+      ],
+      "breakNum": 2,
+      "closed": 0,
+      "closingTime": null,
+      "lateCheckInTime": null,
+      "lastCheckInTime": null,
+      "earlyArriveDate": "",
+      "lateArriveDate": "",
+      "surplusHours": 0,
+      "sign": 0,
+      "srId": "bSHnynXTv2XZjBZhnbTPwoQP13wvC/27QPExuqZNSDh2DM1341Sp0srk9V1ybT//22j9KOGrkPxWb2CKzUKD4itkD1GE2R68535cABoHNExBN+JUfpCebcQGQqv9L7f++/lt5EB6j3A=",
+      "cancelRuleVisualization": {
+        "freeCancelRuleShowDesc": "该订单确认后将不可取消或变更",
+        "intFreeCancelRuleShowDesc": "不可取消",
+        "freeCancelRuleShowDescLocal": "该订单确认后将不可取消或变更",
+        "showDescColorIndex": "#43C19E",
+        "cancelRuleTables": null,
+        "intCancelRuleTables": null,
+        "cancelType": 2,
+        "cancelTimeLimit": 0
+      },
+      "productupgradingType": 0,
+      "productFlagItems": null,
+      "lastRoom": 0,
+      "unitPrice": null,
+      "goodsUniqId": "91662630A3325A262272747A0A33a62a1741bc721540db9195edb7bd29",
+      "uniqueIdShow": "lmb7bd29",
+      "leisureRoomType": 0,
+      "leisureTipList": [],
+      "leisureTags": [],
+      "personNum": 2,
+      "reachPersonNum": 1,
+      "interProductExtend": null,
+      "productPriceInfo": {
+        "firstDayPricePayment": 0,
+        "firstDayPriceOrigin": 0,
+        "firstDayPriceRmb": 0,
+        "exchangeRate": 1,
+        "exchangeRatePayment": 1,
+        "dayPrices": [
+          {
+            "date": "2024-12-18",
+            "price": 0,
+            "rmbPrice": 0,
+            "originPrice": 0,
+            "hasBreakFast": false,
+            "breakFastNumber": 0,
+            "breakFastDescribe": null,
+            "saleCost": 0,
+            "bonusSaleCost": 0,
+            "addBedPriceOrigin": 0,
+            "status": null,
+            "salePriceWithDrrSubCoupon": 0,
+            "currency": "RMB",
+            "currencyPayment": "RMB",
+            "taxPrice": 0,
+            "taxPriceOrigin": 0,
+            "taxPriceRmb": 0,
+            "exchangeRate": 1,
+            "exchangeRatePayment": 1,
+            "breakfastInfoToShow": null,
+            "dayMealDesc": null,
+            "addBed": null
+          }
+        ],
+        "totalTaxPriceRmb": 0,
+        "totalTaxPrice": 0,
+        "totalTaxPriceOrigin": 0,
+        "totalPriceOrigin": 0,
+        "totalPricePayment": 0,
+        "totalPriceRmb": 0,
+        "totalPriceSubCoupon": 0,
+        "averagePriceSubCoupon": 0,
+        "averagePriceOrigin": 0,
+        "averagePriceRmb": 0,
+        "averagePricePayment": 0,
+        "averageTaxPriceOrigin": 0,
+        "averageTaxPriceRmb": 0,
+        "averageTaxPrice": 0,
+        "rebateTotalPrice": 0,
+        "rebateSum": 0,
+        "totalPromotionPrice": 48,
+        "totalPrice": 790,
+        "totalPricePromotionBefore": 838,
+        "averageTotalPrice": 790,
+        "pricePromotionBefore": 838,
+        "pricePromotionBeforeD": 838,
+        "priceSubCoupon": 790,
+        "priceSubCouponD": 790,
+        "additionaltax": null,
+        "googlePriceFA": null,
+        "totalPriceCouponD": 48
+      },
+      "bookingProduct": 0,
+      "giftPackages": [
+        {
+          "pkgProductId": 9775094,
+          "venderPkgProductId": 36504347,
+          "pkgType": 1,
+          "pkgProductName": "森林温泉成人票(入住期间不限次入园)2份",
+          "status": 1,
+          "ruleDescriptionAdditional": "森林温泉成人票(入住期间不限次入园)：获取方式：酒店前台\n入住期间有效\n入住期间不限次进入",
+          "xFoodProducts": null,
+          "xEnjoyProducts": [
+            {
+              "xProductId": 7039891,
+              "venderXProductId": 25591751,
+              "xProductName": "森林温泉成人票(入住期间不限次入园)",
+              "quantityNum": 2,
+              "unit": 1,
+              "catgyId": 209,
+              "catgyName": "票券",
+              "attrId": 20901,
+              "attrName": "景点门票",
+              "idType": 0,
+              "idTypeRule": 0,
+              "salePrice": 248,
+              "currencyCode": "RMB",
+              "isMeal": 0,
+              "status": 1,
+              "quantity": "2份",
+              "receptionTimes": "09:00-23:00",
+              "capacity": "2人",
+              "bookingPhone": "+86-18970048616",
+              "appointPolicy": "无需提前预约",
+              "usePolicy": "",
+              "type": 1,
+              "typeName": "享",
+              "xDescription": "获取方式：酒店前台\n入住期间有效\n入住期间不限次进入",
+              "xImgs": [
+                {
+                  "teImgId": 824173,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1hRSZBrPqVi"
+                },
+                {
+                  "teImgId": 824174,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1hRSZzOdoJy"
+                },
+                {
+                  "teImgId": 754664,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1c2gASBy8yA"
+                },
+                {
+                  "teImgId": 754665,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1c2gAJZ2QgM"
+                },
+                {
+                  "teImgId": 754666,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1c2gALhFMuk"
+                },
+                {
+                  "teImgId": 754667,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1c2gAJecSdy"
+                },
+                {
+                  "teImgId": 754668,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1c2gAP6GpsA"
+                }
+              ],
+              "ticketUseSiteDesc": null,
+              "ticketValid": "入住期间有效",
+              "freestyleDesc": "入住期间不限次进入",
+              "auditChildDesc": "2名成人",
+              "ticketAccessDesc": null,
+              "priceCertType": 1,
+              "auditChildNumDesc": "2名成人；",
+              "useStart": -28799,
+              "useEnd": 4070880001,
+              "rank": 0,
+              "buffet": 0,
+              "earlyCheckin": "",
+              "lateCheckout": "",
+              "core": 0,
+              "estimatePrice": 0,
+              "unsuitableTime": "",
+              "productVersion": 0,
+              "useThreshold": 0,
+              "couponCondition": null,
+              "transfer": 0,
+              "menu": null
+            }
+          ],
+          "xFoodProductNames": null,
+          "xEnjoyProductNames": "森林温泉成人票(入住期间不限次入园)2份",
+          "pictures": null,
+          "dates": [
+            {
+              "businessType": 1,
+              "startDate": 1726329600,
+              "endDate": 1744646400,
+              "weekEffective": 127,
+              "startTime": 0,
+              "endTime": 108000
+            }
+          ],
+          "pkgSalePrice": 496
+        }
+      ],
+      "limitSale": 0,
+      "remainTime": -1,
+      "ratePlanName": "标准价",
+      "productLabelList": [
+        {
+          "productLabelId": 23,
+          "productLabelName": "可用券",
+          "productLabelDesc": "下单即可享受红包优惠{0}元",
+          "productLabelSubtitle": "下单即可享受红包优惠",
+          "productLabelTypeId": 200,
+          "productLabelTypeName": "平台优惠",
+          "amount": 48,
+          "allAmount": 48,
+          "promotionCalcTypes": [
+            63
+          ],
+          "ctripPromotionId": null,
+          "promotionMethod": 1,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        },
+        {
+          "productLabelId": 247,
+          "productLabelName": "赠送里程",
+          "productLabelDesc": "本订单离店后可获得{0}倍里程",
+          "productLabelSubtitle": "本订单离店后可获得{0}倍里程",
+          "productLabelTypeId": 300,
+          "productLabelTypeName": "服务",
+          "amount": 0,
+          "allAmount": 0,
+          "promotionCalcTypes": null,
+          "ctripPromotionId": null,
+          "promotionMethod": 0,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        },
+        {
+          "productLabelId": 77,
+          "productLabelName": "立即确认",
+          "productLabelDesc": "订单提交后，酒店将第一时间确认您的订单",
+          "productLabelSubtitle": "订单提交后，酒店将第一时间确认您的订单",
+          "productLabelTypeId": 300,
+          "productLabelTypeName": "服务",
+          "amount": 0,
+          "allAmount": 0,
+          "promotionCalcTypes": null,
+          "ctripPromotionId": null,
+          "promotionMethod": 0,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        },
+        {
+          "productLabelId": 146,
+          "productLabelName": "可开专票",
+          "productLabelDesc": "该产品支持开具专票",
+          "productLabelSubtitle": "该产品支持开具专票",
+          "productLabelTypeId": 300,
+          "productLabelTypeName": "服务",
+          "amount": 0,
+          "allAmount": 0,
+          "promotionCalcTypes": null,
+          "ctripPromotionId": null,
+          "promotionMethod": 0,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        },
+        {
+          "productLabelId": 186,
+          "productLabelName": "酒店套餐",
+          "productLabelDesc": "森林温泉成人票(入住期间不限次入园)2份",
+          "productLabelSubtitle": "含酒店套餐",
+          "productLabelTypeId": 300,
+          "productLabelTypeName": "服务",
+          "amount": 0,
+          "allAmount": 0,
+          "promotionCalcTypes": null,
+          "ctripPromotionId": null,
+          "promotionMethod": 0,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        }
+      ],
+      "invoiceMode": 1,
+      "entitlementCloudList": null,
+      "promotion": null,
+      "entitlementCloudFreeRoom": 0,
+      "freeRoomPoints": null,
+      "directSale": 0,
+      "mileageRatioInfo": {
+        "totalRatio": 1,
+        "memberRatio": 1,
+        "productRatio": 1,
+        "maxAddTimes": null,
+        "maxAmount": null,
+        "activityMaxTimeAddAmount": null
+      },
+      "roomCategory": null,
+      "roomBedShowInfo": {
+        "listShowInfoShort": "1张2.0米特大床",
+        "listShowInfo": "1张2.0米特大床",
+        "extraBedShowInfo": "收费加床：每人每晚￥ 200",
+        "maxPersonNumber": null
+      },
+      "roomBedInfos": [
+        {
+          "roomDetailBed": [
+            {
+              "roomName": null,
+              "bedGroups": [
+                {
+                  "bedInfos": [
+                    {
+                      "bedTypeId": 1301,
+                      "bedWidth": 2,
+                      "bedCount": 1,
+                      "bedName": null,
+                      "bedNameEn": null,
+                      "remark": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "livingRoomBed": null
+        }
+      ],
+      "roomPropertyShowInfos": [
+        {
+          "facilityTypeId": 999,
+          "facilityTypeName": null,
+          "facilityTypeNameCn": null,
+          "iconUrl": null,
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": -1,
+              "facilityName": "楼层",
+              "facilityNameCn": "楼层",
+              "memo": "2-5层",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -2,
+              "facilityName": "房型面积",
+              "facilityNameCn": "房型面积",
+              "memo": "38m²",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -3,
+              "facilityName": "客房WIFI信息",
+              "facilityNameCn": "客房WIFI信息",
+              "memo": "WIFI免费",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -4,
+              "facilityName": "有窗",
+              "facilityNameCn": "有窗",
+              "memo": "有窗",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -5,
+              "facilityName": "禁烟",
+              "facilityNameCn": "禁烟",
+              "memo": "禁烟",
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 42,
+          "facilityTypeName": "网络与通讯",
+          "facilityTypeNameCn": "网络与通讯",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/042.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 2635,
+              "facilityName": "客房有线宽带",
+              "facilityNameCn": "客房有线宽带",
+              "memo": null,
+              "roomTypeTags": [
+                {
+                  "desc": "免费",
+                  "stress": "green"
+                }
+              ]
+            },
+            {
+              "facilityId": 1376,
+              "facilityName": "客房WIFI覆盖",
+              "facilityNameCn": "客房WIFI覆盖",
+              "memo": null,
+              "roomTypeTags": [
+                {
+                  "desc": "免费",
+                  "stress": "green"
+                }
+              ]
+            },
+            {
+              "facilityId": 77,
+              "facilityName": "国际长途电话",
+              "facilityNameCn": "国际长途电话",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 43,
+          "facilityTypeName": "客房布局",
+          "facilityTypeNameCn": "客房布局",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/044.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 131,
+              "facilityName": "沙发",
+              "facilityNameCn": "沙发",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1252,
+              "facilityName": "衣柜/衣橱",
+              "facilityNameCn": "衣柜/衣橱",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 45,
+          "facilityTypeName": "客房设施",
+          "facilityTypeNameCn": "客房设施",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/051.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 1242,
+              "facilityName": "遮光窗帘",
+              "facilityNameCn": "遮光窗帘",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1243,
+              "facilityName": "自动窗帘",
+              "facilityNameCn": "自动窗帘",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1250,
+              "facilityName": "床具:毯子或被子",
+              "facilityNameCn": "床具:毯子或被子",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 75,
+              "facilityName": "空调",
+              "facilityNameCn": "空调",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 7,
+          "facilityTypeName": "卫浴设施",
+          "facilityTypeNameCn": "卫浴设施",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/066.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 1270,
+              "facilityName": "24小时热水",
+              "facilityNameCn": "24小时热水",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 156,
+              "facilityName": "私人浴室",
+              "facilityNameCn": "私人浴室",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 149,
+              "facilityName": "私人卫生间",
+              "facilityNameCn": "私人卫生间",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 112,
+              "facilityName": "吹风机",
+              "facilityNameCn": "吹风机",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 109,
+              "facilityName": "拖鞋",
+              "facilityNameCn": "拖鞋",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 5,
+          "facilityTypeName": "媒体科技",
+          "facilityTypeNameCn": "媒体科技",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/048.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 1258,
+              "facilityName": "有线频道",
+              "facilityNameCn": "有线频道",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1259,
+              "facilityName": "液晶电视机",
+              "facilityNameCn": "液晶电视机",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1149,
+              "facilityName": "电脑",
+              "facilityNameCn": "电脑",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 6,
+          "facilityTypeName": "食品饮品",
+          "facilityTypeNameCn": "食品饮品",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/055.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 2254,
+              "facilityName": "咖啡壶/茶壶",
+              "facilityNameCn": "咖啡壶/茶壶",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 119,
+              "facilityName": "瓶装水",
+              "facilityNameCn": "瓶装水",
+              "memo": null,
+              "roomTypeTags": [
+                {
+                  "desc": "免费",
+                  "stress": "green"
+                }
+              ]
+            },
+            {
+              "facilityId": 82,
+              "facilityName": "电热水壶",
+              "facilityNameCn": "电热水壶",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 4,
+          "facilityTypeName": "便利设施",
+          "facilityTypeNameCn": "便利设施",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitieTypeIcons/004.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 113,
+              "facilityName": "多种规格电源插座",
+              "facilityNameCn": "多种规格电源插座",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 130,
+              "facilityName": "220V电压插座",
+              "facilityNameCn": "220V电压插座",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        }
+      ],
+      "defect": "",
+      "roomExtendInfo": {
+        "adultStandard": null,
+        "allowChildrenStayName": "该房型欢迎携带儿童入住",
+        "bedInfo": {
+          "head": [
+            "年龄",
+            "床铺",
+            "费用"
+          ],
+          "footer": [
+            "该房型提供加床",
+            "加婴儿床政策请详询酒店"
+          ],
+          "description": [
+            "超过入住人数时，可能涉及额外费用，收费规则如下"
+          ],
+          "title": "床铺",
+          "details": [
+            {
+              "column1": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "17岁及以下"
+              },
+              "column3": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "免费"
+              },
+              "column2": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "使用现有床铺"
+              }
+            },
+            {
+              "column1": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "18岁及以上"
+              },
+              "column3": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "每人每晚￥ 200"
+              },
+              "column2": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "加床"
+              }
+            }
+          ]
+        },
+        "breakfastInfo": null
+      },
+      "roomSpecialInfo": {
+        "limitInfo": "仅接待持有中国内地签发的有效居民身份证的客人",
+        "certificationInfo": "需携带所有入住人的有效身份证，一人一证办理入住。",
+        "commentInfo": "如需要麻将机，需要补差价"
+      },
+      "personNumDesc": "可入住2人",
+      "breakNumDesc": "双早",
+      "hotelMeals": {
+        "mealCopywriting": "2份早餐",
+        "hasMealTableDesc": true,
+        "dayMealTable": [
+          {
+            "date": 1734451200,
+            "dayMealCopywriting": "无餐食",
+            "useDynamicMeal": false,
+            "dynamicMealDesc": null,
+            "breakfastShare": 0,
+            "breakfastDesc": "",
+            "lunchShare": 0,
+            "lunchDesc": "",
+            "dinnerShare": 0,
+            "dinnerDesc": "",
+            "dateStr": null
+          },
+          {
+            "date": 1734537600,
+            "dayMealCopywriting": "2份早餐/间",
+            "useDynamicMeal": false,
+            "dynamicMealDesc": null,
+            "breakfastShare": 2,
+            "breakfastDesc": "2份早餐",
+            "lunchShare": 0,
+            "lunchDesc": "",
+            "dinnerShare": 0,
+            "dinnerDesc": "",
+            "dateStr": null
+          }
+        ]
+      },
+      "hasBreakfast": true,
+      "currencyPayment": "RMB",
+      "enterpriseCashBackProduct": false,
+      "totalCoupon": 0,
+      "ctripGroupMemberFlagNew": 0,
+      "ifReigsterGroup": false,
+      "groupMemberFlagNew": 0,
+      "doneRegister": false,
+      "thirdpartyMemberGradeDesc": null,
+      "thirdpartyMemberExpiredTime": null,
+      "groupMemberInfo": null,
+      "instalmentPayment": null,
+      "incomeIds": {
+        "63": "4316861957893783553"
+      },
+      "applicableNationalityText": "此价格仅适用中国大陆客人",
+      "cLongProduct": false,
+      "setVouch": false,
+      "decimal": false,
+      "boTaoRP": false,
+      "rateplanStructureNameCn": "2份早餐",
+      "onTimeConfirm": true
+    },
+    {
+      "activity": null,
+      "activityTags": [],
+      "ratePlanInfo": {
+        "ratePlanBreakFastName": "2份早餐",
+        "heChengMainTitle": null,
+        "heChengSubTitle": null,
+        "heChengRpBedTypeProperty": null,
+        "heChengRpHourRoomProperty": null,
+        "cancelRuleTag": null,
+        "passthroughInfo": null,
+        "cancelRuleVisualization": null,
+        "productPromotions": null,
+        "excitationText": null,
+        "applicablePeopleTipsB": null,
+        "accidentInsurance": false
+      },
+      "productName": "2份早餐",
+      "productNameNew": null,
+      "minStocks": -1,
+      "available": 1,
+      "showPayType": 2,
+      "showAvourableType": 0,
+      "originalPriceRmb": 890,
+      "averagePrice": 938,
+      "averagePriceSubTotal": 890,
+      "averagePriceDecimal": 938,
+      "averagePriceSubTotalDecimal": 890,
+      "hongBaoVal": 0,
+      "couponVal": 48,
+      "allCouponVal": 48,
+      "allCouponValD": 48,
+      "fullAmount": 0,
+      "cutAmount": 0,
+      "partPrice": null,
+      "hongbaoFlag": 0,
+      "fullCutFlag": 0,
+      "appPromotionFlag": false,
+      "appPromotionUrl": null,
+      "windowFlag": true,
+      "windowDesp": "有窗",
+      "windowSpcDesp": "",
+      "giftDesc": "1.森林温泉成人票(入住期间不限次入园)1份\n接待时间：09:00-23:00；适用人数：1人；联系电话：+86-18970048616；预约规则：无需提前预约；\n2.森林温泉儿童票（入住期间不限次入园）1份\n接待时间：09:00-23:00；联系电话：+86-731-87211111；预约规则：无需提前预约；\n特别说明：森林温泉成人票(入住期间不限次入园)：获取方式：酒店前台\n入住期间有效\n入住期间不限次进入\n森林温泉儿童票（入住期间不限次入园）：获取方式：前台获取即可\n入住期间有效\n身高1.5米(含)以上 或 年龄8周岁(含)以上的儿童计入成人数\n入住期间不限次入园，儿童限制为1.5m以下，单次使用",
+      "additionInfoList": [
+        {
+          "key": "area",
+          "desp": "房间面积",
+          "content": "38㎡",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "bed",
+          "desp": "床型",
+          "content": "大床2米",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "window",
+          "desp": "有窗无窗/部分有窗",
+          "content": "有窗",
+          "contenTip": "",
+          "icontent": "有窗"
+        },
+        {
+          "key": "network",
+          "desp": "上网方式",
+          "content": "",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "floor",
+          "desp": "楼层",
+          "content": "2-5层(普通楼层)",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "personnum",
+          "desp": "可入住人数",
+          "content": "可入住2人",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "breakfast",
+          "desp": "早餐",
+          "content": "双早",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "smoke",
+          "desp": "吸烟政策",
+          "content": "禁止吸烟",
+          "contenTip": "",
+          "icontent": ""
+        }
+      ],
+      "guestType": 2,
+      "bookUrl": "/hotel/book?hotelid=01936001&uniqueid=01936001%3A3916%3A316963087%3A4_0_5459_00%2300%3A1&roomid=3916&rateplanid=316963087&ismj=1&checkindate=2024-12-18&checkoutdate=2024-12-19&mroomid=0004&drvtype=0&goodsuniqueid=91662630A3916A316963087A0A33f7f417d97154b14bcc6ce468c5f333&isclockhotel=false&adultsNumber=2&childrenAges=",
+      "cancelType": 2,
+      "cancelRelType": 4,
+      "cancelMsg": "您的订单一经确认，不可变更或取消；如未能如约入住，将收取全额房费作为违约费用。",
+      "cancelMsgLocal": "您的订单一经确认，不可变更或取消；如未能如约入住，将收取全额房费作为违约费用。",
+      "supplierId": 151330,
+      "supplierType": 2,
+      "isFakeClockRoom": 0,
+      "fakeClockRoomDesc": null,
+      "supplierName": null,
+      "hbtag": 0,
+      "extraBedInfo": "不可加床",
+      "tipsList": [
+        {
+          "tipName": "便利设施",
+          "tipContent": "空调,多种规格电源插座,遮光窗帘,自动窗帘,床具:毯子或被子,衣柜/衣橱,220V电压插座,沙发",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "卫浴设施",
+          "tipContent": "拖鞋,24小时热水,吹风机,私人浴室,私人卫生间",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "电器多媒体",
+          "tipContent": "电脑,国际长途电话,有线频道,液晶电视机",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "食品饮品",
+          "tipContent": "电热水壶,咖啡壶/茶壶,瓶装水免费",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "其他",
+          "tipContent": "如需要麻将机，需要补差价",
+          "mainSort": 0,
+          "subSort": 0
+        }
+      ],
+      "appHalfCount": 0,
+      "productType": 3,
+      "roomType": 0,
+      "stayTime": "",
+      "officeHours": null,
+      "stayAllTime": 0,
+      "area": null,
+      "bed": null,
+      "areaAdvantage": null,
+      "goodRate": null,
+      "commentCount": null,
+      "nRoom": -1,
+      "specialRoomName": "",
+      "specialRateplanName": "",
+      "describe": "",
+      "hongBaoType": 0,
+      "cancelTag": "不可取消",
+      "imgList": [
+        "https://pavo.elongstatic.com/i/ori/nw_1gzuYel0CZi.jpg"
+      ],
+      "videoList": null,
+      "tags": [
+        {
+          "id": -1,
+          "name": "立即确认",
+          "description": "订单提交后，酒店将第一时间确认您的订单",
+          "colorIndex": 0,
+          "available": true,
+          "color": "#4499ff",
+          "price": null,
+          "promotionFlag": 0
+        },
+        {
+          "id": 15,
+          "name": "含礼包",
+          "description": "1.森林温泉成人票(入住期间不限次入园)1份\n接待时间：09:00-23:00；适用人数：1人；联系电话：+86-18970048616；预约规则：无需提前预约；\n2.森林温泉儿童票（入住期间不限次入园）1份\n接待时间：09:00-23:00；联系电话：+86-731-87211111；预约规则：无需提前预约；\n特别说明：森林温泉成人票(入住期间不限次入园)：获取方式：酒店前台\n入住期间有效\n入住期间不限次进入\n森林温泉儿童票（入住期间不限次入园）：获取方式：前台获取即可\n入住期间有效\n身高1.5米(含)以上 或 年龄8周岁(含)以上的儿童计入成人数\n入住期间不限次入园，儿童限制为1.5m以下，单次使用",
+          "colorIndex": 0,
+          "available": true,
+          "color": "#4499ff",
+          "price": null,
+          "promotionFlag": 0
+        }
+      ],
+      "productSubName": "",
+      "ratePlanId": 316963087,
+      "advantageousText": [
+        "不可取消"
+      ],
+      "recommendText": "",
+      "recommendTag": null,
+      "productRecommendType": 0,
+      "roomId": "3916",
+      "mRoomId": "0004",
+      "promotionId": null,
+      "boTaoRpDescription": "",
+      "showPromTypeEntityList": [
+        {
+          "showPromType": 63,
+          "showPromTypeName": "可用红包",
+          "describe": "使用红包下单即可享受每晚立减48元",
+          "price": "48",
+          "allPrice": "48"
+        }
+      ],
+      "breakNum": 2,
+      "closed": 0,
+      "closingTime": null,
+      "lateCheckInTime": null,
+      "lastCheckInTime": null,
+      "earlyArriveDate": "",
+      "lateArriveDate": "",
+      "surplusHours": 0,
+      "sign": 0,
+      "srId": "bSHnynXTv2XZjBZhnbTPwoQP13wvC/27QPExuqZNSDh2DM1341Sp0srk9V1ybT//22j9KOGrkPxWb2CKzUKD4tLtN5N+I6baeD8/PtPazTs0klmXKYhWnfiUhG3xAnheDy4PJV/EW6M=",
+      "cancelRuleVisualization": {
+        "freeCancelRuleShowDesc": "该订单确认后将不可取消或变更",
+        "intFreeCancelRuleShowDesc": "不可取消",
+        "freeCancelRuleShowDescLocal": "该订单确认后将不可取消或变更",
+        "showDescColorIndex": "#43C19E",
+        "cancelRuleTables": null,
+        "intCancelRuleTables": null,
+        "cancelType": 2,
+        "cancelTimeLimit": 0
+      },
+      "productupgradingType": 0,
+      "productFlagItems": null,
+      "lastRoom": 0,
+      "unitPrice": null,
+      "goodsUniqId": "91662630A3916A316963087A0A33f7f417d97154b14bcc6ce468c5f333",
+      "uniqueIdShow": "lmc5f333",
+      "leisureRoomType": 0,
+      "leisureTipList": [],
+      "leisureTags": [],
+      "personNum": 2,
+      "reachPersonNum": 1,
+      "interProductExtend": null,
+      "productPriceInfo": {
+        "firstDayPricePayment": 0,
+        "firstDayPriceOrigin": 0,
+        "firstDayPriceRmb": 0,
+        "exchangeRate": 1,
+        "exchangeRatePayment": 1,
+        "dayPrices": [
+          {
+            "date": "2024-12-18",
+            "price": 0,
+            "rmbPrice": 0,
+            "originPrice": 0,
+            "hasBreakFast": false,
+            "breakFastNumber": 0,
+            "breakFastDescribe": null,
+            "saleCost": 0,
+            "bonusSaleCost": 0,
+            "addBedPriceOrigin": 0,
+            "status": null,
+            "salePriceWithDrrSubCoupon": 0,
+            "currency": "RMB",
+            "currencyPayment": "RMB",
+            "taxPrice": 0,
+            "taxPriceOrigin": 0,
+            "taxPriceRmb": 0,
+            "exchangeRate": 1,
+            "exchangeRatePayment": 1,
+            "breakfastInfoToShow": null,
+            "dayMealDesc": null,
+            "addBed": null
+          }
+        ],
+        "totalTaxPriceRmb": 0,
+        "totalTaxPrice": 0,
+        "totalTaxPriceOrigin": 0,
+        "totalPriceOrigin": 0,
+        "totalPricePayment": 0,
+        "totalPriceRmb": 0,
+        "totalPriceSubCoupon": 0,
+        "averagePriceSubCoupon": 0,
+        "averagePriceOrigin": 0,
+        "averagePriceRmb": 0,
+        "averagePricePayment": 0,
+        "averageTaxPriceOrigin": 0,
+        "averageTaxPriceRmb": 0,
+        "averageTaxPrice": 0,
+        "rebateTotalPrice": 0,
+        "rebateSum": 0,
+        "totalPromotionPrice": 48,
+        "totalPrice": 890,
+        "totalPricePromotionBefore": 938,
+        "averageTotalPrice": 890,
+        "pricePromotionBefore": 938,
+        "pricePromotionBeforeD": 938,
+        "priceSubCoupon": 890,
+        "priceSubCouponD": 890,
+        "additionaltax": null,
+        "googlePriceFA": null,
+        "totalPriceCouponD": 48
+      },
+      "bookingProduct": 0,
+      "giftPackages": [
+        {
+          "pkgProductId": 9986108,
+          "venderPkgProductId": 37312225,
+          "pkgType": 1,
+          "pkgProductName": "森林温泉成人票(入住期间不限次入园)1份+森林温泉儿童票（入住期间不限次入园）1份",
+          "status": 1,
+          "ruleDescriptionAdditional": "森林温泉成人票(入住期间不限次入园)：获取方式：酒店前台\n入住期间有效\n入住期间不限次进入\n森林温泉儿童票（入住期间不限次入园）：获取方式：前台获取即可\n入住期间有效\n身高1.5米(含)以上 或 年龄8周岁(含)以上的儿童计入成人数\n入住期间不限次入园，儿童限制为1.5m以下，单次使用",
+          "xFoodProducts": null,
+          "xEnjoyProducts": [
+            {
+              "xProductId": 7039891,
+              "venderXProductId": 25591751,
+              "xProductName": "森林温泉成人票(入住期间不限次入园)",
+              "quantityNum": 1,
+              "unit": 1,
+              "catgyId": 209,
+              "catgyName": "票券",
+              "attrId": 20901,
+              "attrName": "景点门票",
+              "idType": 0,
+              "idTypeRule": 0,
+              "salePrice": 248,
+              "currencyCode": "RMB",
+              "isMeal": 0,
+              "status": 1,
+              "quantity": "1份",
+              "receptionTimes": "09:00-23:00",
+              "capacity": "1人",
+              "bookingPhone": "+86-18970048616",
+              "appointPolicy": "无需提前预约",
+              "usePolicy": "",
+              "type": 1,
+              "typeName": "享",
+              "xDescription": "获取方式：酒店前台\n入住期间有效\n入住期间不限次进入",
+              "xImgs": [
+                {
+                  "teImgId": 824173,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1hRSZBrPqVi"
+                },
+                {
+                  "teImgId": 824174,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1hRSZzOdoJy"
+                },
+                {
+                  "teImgId": 754664,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1c2gASBy8yA"
+                },
+                {
+                  "teImgId": 754665,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1c2gAJZ2QgM"
+                },
+                {
+                  "teImgId": 754666,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1c2gALhFMuk"
+                },
+                {
+                  "teImgId": 754667,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1c2gAJecSdy"
+                },
+                {
+                  "teImgId": 754668,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1c2gAP6GpsA"
+                }
+              ],
+              "ticketUseSiteDesc": null,
+              "ticketValid": "入住期间有效",
+              "freestyleDesc": "入住期间不限次进入",
+              "auditChildDesc": "1名成人",
+              "ticketAccessDesc": null,
+              "priceCertType": 1,
+              "auditChildNumDesc": "1名成人；",
+              "useStart": -28799,
+              "useEnd": 4070880001,
+              "rank": 0,
+              "buffet": 0,
+              "earlyCheckin": "",
+              "lateCheckout": "",
+              "core": 0,
+              "estimatePrice": 0,
+              "unsuitableTime": "",
+              "productVersion": 0,
+              "useThreshold": 0,
+              "couponCondition": null,
+              "transfer": 0,
+              "menu": null
+            },
+            {
+              "xProductId": 7039892,
+              "venderXProductId": 25591157,
+              "xProductName": "森林温泉儿童票（入住期间不限次入园）",
+              "quantityNum": 1,
+              "unit": 1,
+              "catgyId": 209,
+              "catgyName": "票券",
+              "attrId": 20901,
+              "attrName": "景点门票",
+              "idType": 0,
+              "idTypeRule": 0,
+              "salePrice": 100,
+              "currencyCode": "RMB",
+              "isMeal": 0,
+              "status": 1,
+              "quantity": "1份",
+              "receptionTimes": "09:00-23:00",
+              "capacity": "",
+              "bookingPhone": "+86-731-87211111",
+              "appointPolicy": "无需提前预约",
+              "usePolicy": "",
+              "type": 1,
+              "typeName": "享",
+              "xDescription": "获取方式：前台获取即可\n入住期间有效\n身高1.5米(含)以上 或 年龄8周岁(含)以上的儿童计入成人数\n入住期间不限次入园，儿童限制为1.5m以下，单次使用",
+              "xImgs": [
+                {
+                  "teImgId": 754664,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1c2gASBy8yA"
+                },
+                {
+                  "teImgId": 754665,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1c2gAJZ2QgM"
+                },
+                {
+                  "teImgId": 754666,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1c2gALhFMuk"
+                },
+                {
+                  "teImgId": 754667,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1c2gAJecSdy"
+                },
+                {
+                  "teImgId": 754668,
+                  "imgIndex": 0,
+                  "teImhUrlSuffix": "1c2gAP6GpsA"
+                }
+              ],
+              "ticketUseSiteDesc": null,
+              "ticketValid": "入住期间有效",
+              "freestyleDesc": "入住期间不限次入园，儿童限制为1.5m以下，单次使用",
+              "auditChildDesc": "1名儿童，身高1.5米(含)以上或年龄8周岁(含)以上儿童计入成人数",
+              "ticketAccessDesc": "前台获取即可",
+              "priceCertType": 1,
+              "auditChildNumDesc": "1名儿童；",
+              "useStart": -28799,
+              "useEnd": 4070880001,
+              "rank": 0,
+              "buffet": 0,
+              "earlyCheckin": "",
+              "lateCheckout": "",
+              "core": 0,
+              "estimatePrice": 0,
+              "unsuitableTime": "",
+              "productVersion": 0,
+              "useThreshold": 0,
+              "couponCondition": null,
+              "transfer": 0,
+              "menu": null
+            }
+          ],
+          "xFoodProductNames": null,
+          "xEnjoyProductNames": "森林温泉成人票(入住期间不限次入园)1份 + 森林温泉儿童票（入住期间不限次入园）1份",
+          "pictures": null,
+          "dates": [
+            {
+              "businessType": 1,
+              "startDate": 1726329600,
+              "endDate": 1744646400,
+              "weekEffective": 127,
+              "startTime": 0,
+              "endTime": 108000
+            }
+          ],
+          "pkgSalePrice": 348
+        }
+      ],
+      "limitSale": 0,
+      "remainTime": -1,
+      "ratePlanName": "标准价",
+      "productLabelList": [
+        {
+          "productLabelId": 23,
+          "productLabelName": "可用券",
+          "productLabelDesc": "下单即可享受红包优惠{0}元",
+          "productLabelSubtitle": "下单即可享受红包优惠",
+          "productLabelTypeId": 200,
+          "productLabelTypeName": "平台优惠",
+          "amount": 48,
+          "allAmount": 48,
+          "promotionCalcTypes": [
+            63
+          ],
+          "ctripPromotionId": null,
+          "promotionMethod": 1,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        },
+        {
+          "productLabelId": 247,
+          "productLabelName": "赠送里程",
+          "productLabelDesc": "本订单离店后可获得{0}倍里程",
+          "productLabelSubtitle": "本订单离店后可获得{0}倍里程",
+          "productLabelTypeId": 300,
+          "productLabelTypeName": "服务",
+          "amount": 0,
+          "allAmount": 0,
+          "promotionCalcTypes": null,
+          "ctripPromotionId": null,
+          "promotionMethod": 0,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        },
+        {
+          "productLabelId": 77,
+          "productLabelName": "立即确认",
+          "productLabelDesc": "订单提交后，酒店将第一时间确认您的订单",
+          "productLabelSubtitle": "订单提交后，酒店将第一时间确认您的订单",
+          "productLabelTypeId": 300,
+          "productLabelTypeName": "服务",
+          "amount": 0,
+          "allAmount": 0,
+          "promotionCalcTypes": null,
+          "ctripPromotionId": null,
+          "promotionMethod": 0,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        },
+        {
+          "productLabelId": 146,
+          "productLabelName": "可开专票",
+          "productLabelDesc": "该产品支持开具专票",
+          "productLabelSubtitle": "该产品支持开具专票",
+          "productLabelTypeId": 300,
+          "productLabelTypeName": "服务",
+          "amount": 0,
+          "allAmount": 0,
+          "promotionCalcTypes": null,
+          "ctripPromotionId": null,
+          "promotionMethod": 0,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        },
+        {
+          "productLabelId": 186,
+          "productLabelName": "酒店套餐",
+          "productLabelDesc": "森林温泉成人票(入住期间不限次入园)1份 + 森林温泉儿童票（入住期间不限次入园）1份",
+          "productLabelSubtitle": "含酒店套餐",
+          "productLabelTypeId": 300,
+          "productLabelTypeName": "服务",
+          "amount": 0,
+          "allAmount": 0,
+          "promotionCalcTypes": null,
+          "ctripPromotionId": null,
+          "promotionMethod": 0,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        }
+      ],
+      "invoiceMode": 1,
+      "entitlementCloudList": null,
+      "promotion": null,
+      "entitlementCloudFreeRoom": 0,
+      "freeRoomPoints": null,
+      "directSale": 0,
+      "mileageRatioInfo": {
+        "totalRatio": 1,
+        "memberRatio": 1,
+        "productRatio": 1,
+        "maxAddTimes": null,
+        "maxAmount": null,
+        "activityMaxTimeAddAmount": null
+      },
+      "roomCategory": null,
+      "roomBedShowInfo": {
+        "listShowInfoShort": "1张2.0米特大床",
+        "listShowInfo": "1张2.0米特大床",
+        "extraBedShowInfo": "收费加床：每人每晚￥ 200",
+        "maxPersonNumber": null
+      },
+      "roomBedInfos": [
+        {
+          "roomDetailBed": [
+            {
+              "roomName": null,
+              "bedGroups": [
+                {
+                  "bedInfos": [
+                    {
+                      "bedTypeId": 1301,
+                      "bedWidth": 2,
+                      "bedCount": 1,
+                      "bedName": null,
+                      "bedNameEn": null,
+                      "remark": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "livingRoomBed": null
+        }
+      ],
+      "roomPropertyShowInfos": [
+        {
+          "facilityTypeId": 999,
+          "facilityTypeName": null,
+          "facilityTypeNameCn": null,
+          "iconUrl": null,
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": -1,
+              "facilityName": "楼层",
+              "facilityNameCn": "楼层",
+              "memo": "2-5层",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -2,
+              "facilityName": "房型面积",
+              "facilityNameCn": "房型面积",
+              "memo": "38m²",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -3,
+              "facilityName": "客房WIFI信息",
+              "facilityNameCn": "客房WIFI信息",
+              "memo": "WIFI免费",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -4,
+              "facilityName": "有窗",
+              "facilityNameCn": "有窗",
+              "memo": "有窗",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -5,
+              "facilityName": "禁烟",
+              "facilityNameCn": "禁烟",
+              "memo": "禁烟",
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 42,
+          "facilityTypeName": "网络与通讯",
+          "facilityTypeNameCn": "网络与通讯",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/042.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 2635,
+              "facilityName": "客房有线宽带",
+              "facilityNameCn": "客房有线宽带",
+              "memo": null,
+              "roomTypeTags": [
+                {
+                  "desc": "免费",
+                  "stress": "green"
+                }
+              ]
+            },
+            {
+              "facilityId": 1376,
+              "facilityName": "客房WIFI覆盖",
+              "facilityNameCn": "客房WIFI覆盖",
+              "memo": null,
+              "roomTypeTags": [
+                {
+                  "desc": "免费",
+                  "stress": "green"
+                }
+              ]
+            },
+            {
+              "facilityId": 77,
+              "facilityName": "国际长途电话",
+              "facilityNameCn": "国际长途电话",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 43,
+          "facilityTypeName": "客房布局",
+          "facilityTypeNameCn": "客房布局",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/044.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 131,
+              "facilityName": "沙发",
+              "facilityNameCn": "沙发",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1252,
+              "facilityName": "衣柜/衣橱",
+              "facilityNameCn": "衣柜/衣橱",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 45,
+          "facilityTypeName": "客房设施",
+          "facilityTypeNameCn": "客房设施",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/051.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 1242,
+              "facilityName": "遮光窗帘",
+              "facilityNameCn": "遮光窗帘",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1243,
+              "facilityName": "自动窗帘",
+              "facilityNameCn": "自动窗帘",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1250,
+              "facilityName": "床具:毯子或被子",
+              "facilityNameCn": "床具:毯子或被子",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 75,
+              "facilityName": "空调",
+              "facilityNameCn": "空调",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 7,
+          "facilityTypeName": "卫浴设施",
+          "facilityTypeNameCn": "卫浴设施",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/066.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 1270,
+              "facilityName": "24小时热水",
+              "facilityNameCn": "24小时热水",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 156,
+              "facilityName": "私人浴室",
+              "facilityNameCn": "私人浴室",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 149,
+              "facilityName": "私人卫生间",
+              "facilityNameCn": "私人卫生间",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 112,
+              "facilityName": "吹风机",
+              "facilityNameCn": "吹风机",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 109,
+              "facilityName": "拖鞋",
+              "facilityNameCn": "拖鞋",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 5,
+          "facilityTypeName": "媒体科技",
+          "facilityTypeNameCn": "媒体科技",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/048.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 1258,
+              "facilityName": "有线频道",
+              "facilityNameCn": "有线频道",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1259,
+              "facilityName": "液晶电视机",
+              "facilityNameCn": "液晶电视机",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1149,
+              "facilityName": "电脑",
+              "facilityNameCn": "电脑",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 6,
+          "facilityTypeName": "食品饮品",
+          "facilityTypeNameCn": "食品饮品",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/055.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 2254,
+              "facilityName": "咖啡壶/茶壶",
+              "facilityNameCn": "咖啡壶/茶壶",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 119,
+              "facilityName": "瓶装水",
+              "facilityNameCn": "瓶装水",
+              "memo": null,
+              "roomTypeTags": [
+                {
+                  "desc": "免费",
+                  "stress": "green"
+                }
+              ]
+            },
+            {
+              "facilityId": 82,
+              "facilityName": "电热水壶",
+              "facilityNameCn": "电热水壶",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 4,
+          "facilityTypeName": "便利设施",
+          "facilityTypeNameCn": "便利设施",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitieTypeIcons/004.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 113,
+              "facilityName": "多种规格电源插座",
+              "facilityNameCn": "多种规格电源插座",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 130,
+              "facilityName": "220V电压插座",
+              "facilityNameCn": "220V电压插座",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        }
+      ],
+      "defect": "",
+      "roomExtendInfo": {
+        "adultStandard": null,
+        "allowChildrenStayName": "该房型欢迎携带儿童入住",
+        "bedInfo": {
+          "head": [
+            "年龄",
+            "床铺",
+            "费用"
+          ],
+          "footer": [
+            "该房型提供加床",
+            "加婴儿床政策请详询酒店"
+          ],
+          "description": [
+            "超过入住人数时，可能涉及额外费用，收费规则如下"
+          ],
+          "title": "床铺",
+          "details": [
+            {
+              "column1": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "17岁及以下"
+              },
+              "column3": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "免费"
+              },
+              "column2": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "使用现有床铺"
+              }
+            },
+            {
+              "column1": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "18岁及以上"
+              },
+              "column3": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "每人每晚￥ 200"
+              },
+              "column2": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "加床"
+              }
+            }
+          ]
+        },
+        "breakfastInfo": null
+      },
+      "roomSpecialInfo": {
+        "limitInfo": "仅接待持有中国内地签发的有效居民身份证的客人",
+        "certificationInfo": "需携带所有入住人的有效身份证，一人一证办理入住。",
+        "commentInfo": "如需要麻将机，需要补差价"
+      },
+      "personNumDesc": "可入住2人",
+      "breakNumDesc": "双早",
+      "hotelMeals": {
+        "mealCopywriting": "2份早餐",
+        "hasMealTableDesc": true,
+        "dayMealTable": [
+          {
+            "date": 1734451200,
+            "dayMealCopywriting": "无餐食",
+            "useDynamicMeal": false,
+            "dynamicMealDesc": null,
+            "breakfastShare": 0,
+            "breakfastDesc": "",
+            "lunchShare": 0,
+            "lunchDesc": "",
+            "dinnerShare": 0,
+            "dinnerDesc": "",
+            "dateStr": null
+          },
+          {
+            "date": 1734537600,
+            "dayMealCopywriting": "2份早餐/间",
+            "useDynamicMeal": false,
+            "dynamicMealDesc": null,
+            "breakfastShare": 2,
+            "breakfastDesc": "2份早餐",
+            "lunchShare": 0,
+            "lunchDesc": "",
+            "dinnerShare": 0,
+            "dinnerDesc": "",
+            "dateStr": null
+          }
+        ]
+      },
+      "hasBreakfast": true,
+      "currencyPayment": "RMB",
+      "enterpriseCashBackProduct": false,
+      "totalCoupon": 0,
+      "ctripGroupMemberFlagNew": 0,
+      "ifReigsterGroup": false,
+      "groupMemberFlagNew": 0,
+      "doneRegister": false,
+      "thirdpartyMemberGradeDesc": null,
+      "thirdpartyMemberExpiredTime": null,
+      "groupMemberInfo": null,
+      "instalmentPayment": null,
+      "incomeIds": {
+        "63": "4316861957893783553"
+      },
+      "applicableNationalityText": "此价格仅适用中国大陆客人",
+      "cLongProduct": false,
+      "setVouch": false,
+      "decimal": false,
+      "boTaoRP": false,
+      "rateplanStructureNameCn": "2份早餐",
+      "onTimeConfirm": true
+    },
+    {
+      "activity": null,
+      "activityTags": [],
+      "ratePlanInfo": {
+        "ratePlanBreakFastName": "3份早餐",
+        "heChengMainTitle": null,
+        "heChengSubTitle": [],
+        "heChengRpBedTypeProperty": null,
+        "heChengRpHourRoomProperty": null,
+        "cancelRuleTag": null,
+        "passthroughInfo": null,
+        "cancelRuleVisualization": null,
+        "productPromotions": null,
+        "excitationText": null,
+        "applicablePeopleTipsB": null,
+        "accidentInsurance": false
+      },
+      "productName": "3份早餐",
+      "productNameNew": null,
+      "minStocks": -1,
+      "available": 1,
+      "showPayType": 2,
+      "showAvourableType": 0,
+      "originalPriceRmb": 926.74,
+      "averagePrice": 927,
+      "averagePriceSubTotal": 927,
+      "averagePriceDecimal": 926.74,
+      "averagePriceSubTotalDecimal": 926.74,
+      "hongBaoVal": 0,
+      "couponVal": 0,
+      "allCouponVal": 0,
+      "allCouponValD": 0,
+      "fullAmount": 0,
+      "cutAmount": 0,
+      "partPrice": null,
+      "hongbaoFlag": 0,
+      "fullCutFlag": 0,
+      "appPromotionFlag": false,
+      "appPromotionUrl": null,
+      "windowFlag": true,
+      "windowDesp": "有窗",
+      "windowSpcDesp": "",
+      "giftDesc": "",
+      "additionInfoList": [
+        {
+          "key": "area",
+          "desp": "房间面积",
+          "content": "38㎡",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "bed",
+          "desp": "床型",
+          "content": "大床2米",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "window",
+          "desp": "有窗无窗/部分有窗",
+          "content": "有窗",
+          "contenTip": "",
+          "icontent": "有窗"
+        },
+        {
+          "key": "network",
+          "desp": "上网方式",
+          "content": "",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "floor",
+          "desp": "楼层",
+          "content": "2-5层(普通楼层)",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "personnum",
+          "desp": "可入住人数",
+          "content": "可入住2人",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "breakfast",
+          "desp": "早餐",
+          "content": "三早",
+          "contenTip": "",
+          "icontent": ""
+        }
+      ],
+      "guestType": 2,
+      "bookUrl": "/hotel/book?hotelid=01936001&uniqueid=01936001%3A0002%3A380121027%3A0_0_0_00%2300%3A1&roomid=0002&rateplanid=380121027&ismj=1&checkindate=2024-12-18&checkoutdate=2024-12-19&mroomid=0004&drvtype=0&goodsuniqueid=24531049A2A380121027A0A5ab4f40776b6e401a46384266c0d14a2&isclockhotel=false&adultsNumber=2&childrenAges=",
+      "cancelType": 2,
+      "cancelRelType": 4,
+      "cancelMsg": "您的订单一经确认，不可变更或取消；如未能如约入住，将收取全额房费作为违约费用。",
+      "cancelMsgLocal": "您的订单一经确认，不可变更或取消；如未能如约入住，将收取全额房费作为违约费用。",
+      "supplierId": 5149801,
+      "supplierType": 1,
+      "isFakeClockRoom": 0,
+      "fakeClockRoomDesc": null,
+      "supplierName": null,
+      "hbtag": 0,
+      "extraBedInfo": "不可加床",
+      "tipsList": [
+        {
+          "tipName": "便利设施",
+          "tipContent": "空调,多种规格电源插座,遮光窗帘,自动窗帘,床具:毯子或被子,衣柜/衣橱,220V电压插座,沙发",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "卫浴设施",
+          "tipContent": "拖鞋,24小时热水,吹风机,私人浴室,私人卫生间",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "电器多媒体",
+          "tipContent": "电脑,国际长途电话,有线频道,液晶电视机",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "食品饮品",
+          "tipContent": "电热水壶,咖啡壶/茶壶,瓶装水免费",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "其他",
+          "tipContent": "如需要麻将机，需要补差价",
+          "mainSort": 0,
+          "subSort": 0
+        }
+      ],
+      "appHalfCount": 0,
+      "productType": 1027,
+      "roomType": 0,
+      "stayTime": "",
+      "officeHours": null,
+      "stayAllTime": 0,
+      "area": null,
+      "bed": null,
+      "areaAdvantage": null,
+      "goodRate": null,
+      "commentCount": null,
+      "nRoom": -1,
+      "specialRoomName": "",
+      "specialRateplanName": "",
+      "describe": "",
+      "hongBaoType": 0,
+      "cancelTag": "不可取消",
+      "imgList": [
+        "https://pavo.elongstatic.com/i/ori/nw_1gzuYel0CZi.jpg"
+      ],
+      "videoList": null,
+      "tags": [],
+      "productSubName": "",
+      "ratePlanId": 380121027,
+      "advantageousText": [
+        "不可取消",
+        "同程艺龙"
+      ],
+      "recommendText": "",
+      "recommendTag": null,
+      "productRecommendType": 0,
+      "roomId": "0002",
+      "mRoomId": "0004",
+      "promotionId": null,
+      "boTaoRpDescription": "",
+      "showPromTypeEntityList": [],
+      "breakNum": 3,
+      "closed": 0,
+      "closingTime": null,
+      "lateCheckInTime": null,
+      "lastCheckInTime": null,
+      "earlyArriveDate": "",
+      "lateArriveDate": "",
+      "surplusHours": 0,
+      "sign": 0,
+      "srId": "oFvSuBwrcJ1bct61QLWrqIFSVQMRbvA8oL/lW/Aho6YFBIQDKS005AyO69b9ohctTtQinOctd2mMH+s+rdkm4YY+yAaypUWTTD0zYVukFi3BBkLxHYUJGwDlc6ByuHgq",
+      "cancelRuleVisualization": {
+        "freeCancelRuleShowDesc": "该订单确认后将不可取消或变更",
+        "intFreeCancelRuleShowDesc": "不可取消",
+        "freeCancelRuleShowDescLocal": "该订单确认后将不可取消或变更",
+        "showDescColorIndex": "#43C19E",
+        "cancelRuleTables": null,
+        "intCancelRuleTables": null,
+        "cancelType": 2,
+        "cancelTimeLimit": 0
+      },
+      "productupgradingType": 0,
+      "productFlagItems": null,
+      "lastRoom": 0,
+      "unitPrice": null,
+      "goodsUniqId": "24531049A2A380121027A0A5ab4f40776b6e401a46384266c0d14a2",
+      "uniqueIdShow": "g20d14a2",
+      "leisureRoomType": 0,
+      "leisureTipList": [],
+      "leisureTags": [],
+      "personNum": 2,
+      "reachPersonNum": 1,
+      "interProductExtend": null,
+      "productPriceInfo": {
+        "firstDayPricePayment": 0,
+        "firstDayPriceOrigin": 0,
+        "firstDayPriceRmb": 0,
+        "exchangeRate": 1,
+        "exchangeRatePayment": 1,
+        "dayPrices": [
+          {
+            "date": "2024-12-18",
+            "price": 0,
+            "rmbPrice": 0,
+            "originPrice": 0,
+            "hasBreakFast": false,
+            "breakFastNumber": 0,
+            "breakFastDescribe": null,
+            "saleCost": 0,
+            "bonusSaleCost": 0,
+            "addBedPriceOrigin": 0,
+            "status": null,
+            "salePriceWithDrrSubCoupon": 0,
+            "currency": "RMB",
+            "currencyPayment": "RMB",
+            "taxPrice": 0,
+            "taxPriceOrigin": 0,
+            "taxPriceRmb": 0,
+            "exchangeRate": 1,
+            "exchangeRatePayment": 1,
+            "breakfastInfoToShow": null,
+            "dayMealDesc": null,
+            "addBed": null
+          }
+        ],
+        "totalTaxPriceRmb": 0,
+        "totalTaxPrice": 0,
+        "totalTaxPriceOrigin": 0,
+        "totalPriceOrigin": 0,
+        "totalPricePayment": 0,
+        "totalPriceRmb": 0,
+        "totalPriceSubCoupon": 0,
+        "averagePriceSubCoupon": 0,
+        "averagePriceOrigin": 0,
+        "averagePriceRmb": 0,
+        "averagePricePayment": 0,
+        "averageTaxPriceOrigin": 0,
+        "averageTaxPriceRmb": 0,
+        "averageTaxPrice": 0,
+        "rebateTotalPrice": 0,
+        "rebateSum": 0,
+        "totalPromotionPrice": 0,
+        "totalPrice": 926.74,
+        "totalPricePromotionBefore": 926.74,
+        "averageTotalPrice": 926.74,
+        "pricePromotionBefore": 927,
+        "pricePromotionBeforeD": 926.74,
+        "priceSubCoupon": 927,
+        "priceSubCouponD": 926.74,
+        "additionaltax": null,
+        "googlePriceFA": null,
+        "totalPriceCouponD": 0
+      },
+      "bookingProduct": 0,
+      "giftPackages": null,
+      "limitSale": 0,
+      "remainTime": -1,
+      "ratePlanName": "含三早（内宾）",
+      "productLabelList": [
+        {
+          "productLabelId": 247,
+          "productLabelName": "赠送里程",
+          "productLabelDesc": "本订单离店后可获得{0}倍里程",
+          "productLabelSubtitle": "本订单离店后可获得{0}倍里程",
+          "productLabelTypeId": 300,
+          "productLabelTypeName": "服务",
+          "amount": 0,
+          "allAmount": 0,
+          "promotionCalcTypes": null,
+          "ctripPromotionId": null,
+          "promotionMethod": 0,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        }
+      ],
+      "invoiceMode": 2,
+      "entitlementCloudList": null,
+      "promotion": null,
+      "entitlementCloudFreeRoom": 0,
+      "freeRoomPoints": null,
+      "directSale": 0,
+      "mileageRatioInfo": {
+        "totalRatio": 1,
+        "memberRatio": 1,
+        "productRatio": 1,
+        "maxAddTimes": null,
+        "maxAmount": null,
+        "activityMaxTimeAddAmount": null
+      },
+      "roomCategory": null,
+      "roomBedShowInfo": {
+        "listShowInfoShort": "1张2.0米特大床",
+        "listShowInfo": "1张2.0米特大床",
+        "extraBedShowInfo": "收费加床：每人每晚￥ 200",
+        "maxPersonNumber": null
+      },
+      "roomBedInfos": [
+        {
+          "roomDetailBed": [
+            {
+              "roomName": null,
+              "bedGroups": [
+                {
+                  "bedInfos": [
+                    {
+                      "bedTypeId": 1301,
+                      "bedWidth": 2,
+                      "bedCount": 1,
+                      "bedName": null,
+                      "bedNameEn": null,
+                      "remark": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "livingRoomBed": null
+        }
+      ],
+      "roomPropertyShowInfos": [
+        {
+          "facilityTypeId": 999,
+          "facilityTypeName": null,
+          "facilityTypeNameCn": null,
+          "iconUrl": null,
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": -1,
+              "facilityName": "楼层",
+              "facilityNameCn": "楼层",
+              "memo": "2-5层",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -2,
+              "facilityName": "房型面积",
+              "facilityNameCn": "房型面积",
+              "memo": "38m²",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -3,
+              "facilityName": "客房WIFI信息",
+              "facilityNameCn": "客房WIFI信息",
+              "memo": "WIFI免费",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -4,
+              "facilityName": "有窗",
+              "facilityNameCn": "有窗",
+              "memo": "有窗",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -5,
+              "facilityName": "禁烟",
+              "facilityNameCn": "禁烟",
+              "memo": "禁烟",
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 42,
+          "facilityTypeName": "网络与通讯",
+          "facilityTypeNameCn": "网络与通讯",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/042.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 2635,
+              "facilityName": "客房有线宽带",
+              "facilityNameCn": "客房有线宽带",
+              "memo": null,
+              "roomTypeTags": [
+                {
+                  "desc": "免费",
+                  "stress": "green"
+                }
+              ]
+            },
+            {
+              "facilityId": 1376,
+              "facilityName": "客房WIFI覆盖",
+              "facilityNameCn": "客房WIFI覆盖",
+              "memo": null,
+              "roomTypeTags": [
+                {
+                  "desc": "免费",
+                  "stress": "green"
+                }
+              ]
+            },
+            {
+              "facilityId": 77,
+              "facilityName": "国际长途电话",
+              "facilityNameCn": "国际长途电话",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 43,
+          "facilityTypeName": "客房布局",
+          "facilityTypeNameCn": "客房布局",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/044.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 131,
+              "facilityName": "沙发",
+              "facilityNameCn": "沙发",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1252,
+              "facilityName": "衣柜/衣橱",
+              "facilityNameCn": "衣柜/衣橱",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 45,
+          "facilityTypeName": "客房设施",
+          "facilityTypeNameCn": "客房设施",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/051.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 1242,
+              "facilityName": "遮光窗帘",
+              "facilityNameCn": "遮光窗帘",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1243,
+              "facilityName": "自动窗帘",
+              "facilityNameCn": "自动窗帘",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1250,
+              "facilityName": "床具:毯子或被子",
+              "facilityNameCn": "床具:毯子或被子",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 75,
+              "facilityName": "空调",
+              "facilityNameCn": "空调",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 7,
+          "facilityTypeName": "卫浴设施",
+          "facilityTypeNameCn": "卫浴设施",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/066.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 1270,
+              "facilityName": "24小时热水",
+              "facilityNameCn": "24小时热水",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 156,
+              "facilityName": "私人浴室",
+              "facilityNameCn": "私人浴室",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 149,
+              "facilityName": "私人卫生间",
+              "facilityNameCn": "私人卫生间",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 112,
+              "facilityName": "吹风机",
+              "facilityNameCn": "吹风机",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 109,
+              "facilityName": "拖鞋",
+              "facilityNameCn": "拖鞋",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 5,
+          "facilityTypeName": "媒体科技",
+          "facilityTypeNameCn": "媒体科技",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/048.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 1258,
+              "facilityName": "有线频道",
+              "facilityNameCn": "有线频道",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1259,
+              "facilityName": "液晶电视机",
+              "facilityNameCn": "液晶电视机",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1149,
+              "facilityName": "电脑",
+              "facilityNameCn": "电脑",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 6,
+          "facilityTypeName": "食品饮品",
+          "facilityTypeNameCn": "食品饮品",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/055.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 2254,
+              "facilityName": "咖啡壶/茶壶",
+              "facilityNameCn": "咖啡壶/茶壶",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 119,
+              "facilityName": "瓶装水",
+              "facilityNameCn": "瓶装水",
+              "memo": null,
+              "roomTypeTags": [
+                {
+                  "desc": "免费",
+                  "stress": "green"
+                }
+              ]
+            },
+            {
+              "facilityId": 82,
+              "facilityName": "电热水壶",
+              "facilityNameCn": "电热水壶",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 4,
+          "facilityTypeName": "便利设施",
+          "facilityTypeNameCn": "便利设施",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitieTypeIcons/004.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 113,
+              "facilityName": "多种规格电源插座",
+              "facilityNameCn": "多种规格电源插座",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 130,
+              "facilityName": "220V电压插座",
+              "facilityNameCn": "220V电压插座",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        }
+      ],
+      "defect": "",
+      "roomExtendInfo": {
+        "adultStandard": null,
+        "allowChildrenStayName": "该房型欢迎携带儿童入住",
+        "bedInfo": {
+          "head": [
+            "年龄",
+            "床铺",
+            "费用"
+          ],
+          "footer": [
+            "该房型提供加床",
+            "加婴儿床政策请详询酒店"
+          ],
+          "description": [
+            "超过入住人数时，可能涉及额外费用，收费规则如下"
+          ],
+          "title": "床铺",
+          "details": [
+            {
+              "column1": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "17岁及以下"
+              },
+              "column3": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "免费"
+              },
+              "column2": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "使用现有床铺"
+              }
+            },
+            {
+              "column1": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "18岁及以上"
+              },
+              "column3": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "每人每晚￥ 200"
+              },
+              "column2": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "加床"
+              }
+            }
+          ]
+        },
+        "breakfastInfo": null
+      },
+      "roomSpecialInfo": {
+        "limitInfo": "仅接待持有中国内地签发的有效居民身份证的客人",
+        "certificationInfo": "需携带所有入住人的有效身份证，一人一证办理入住。",
+        "commentInfo": "如需要麻将机，需要补差价"
+      },
+      "personNumDesc": "可入住2人",
+      "breakNumDesc": "三早",
+      "hotelMeals": {
+        "mealCopywriting": "3份早餐",
+        "hasMealTableDesc": true,
+        "dayMealTable": [
+          {
+            "date": 1734451200,
+            "dayMealCopywriting": "无餐食",
+            "useDynamicMeal": false,
+            "dynamicMealDesc": null,
+            "breakfastShare": 0,
+            "breakfastDesc": "",
+            "lunchShare": 0,
+            "lunchDesc": "",
+            "dinnerShare": 0,
+            "dinnerDesc": "",
+            "dateStr": null
+          },
+          {
+            "date": 1734537600,
+            "dayMealCopywriting": "3份早餐/间",
+            "useDynamicMeal": false,
+            "dynamicMealDesc": null,
+            "breakfastShare": 3,
+            "breakfastDesc": "3份早餐",
+            "lunchShare": 0,
+            "lunchDesc": "",
+            "dinnerShare": 0,
+            "dinnerDesc": "",
+            "dateStr": null
+          }
+        ]
+      },
+      "hasBreakfast": true,
+      "currencyPayment": "RMB",
+      "enterpriseCashBackProduct": false,
+      "totalCoupon": 0,
+      "ctripGroupMemberFlagNew": 0,
+      "ifReigsterGroup": false,
+      "groupMemberFlagNew": 0,
+      "doneRegister": false,
+      "thirdpartyMemberGradeDesc": null,
+      "thirdpartyMemberExpiredTime": null,
+      "groupMemberInfo": null,
+      "instalmentPayment": null,
+      "incomeIds": null,
+      "applicableNationalityText": "此价格仅适用中国大陆客人",
+      "cLongProduct": false,
+      "setVouch": false,
+      "decimal": false,
+      "boTaoRP": false,
+      "rateplanStructureNameCn": "3份早餐",
+      "onTimeConfirm": false
+    }
+  ],
+  "isRp": 0,
+  "recRpList": [
+    {
+      "activity": null,
+      "activityTags": [],
+      "ratePlanInfo": {
+        "ratePlanBreakFastName": "无餐食",
+        "heChengMainTitle": null,
+        "heChengSubTitle": null,
+        "heChengRpBedTypeProperty": null,
+        "heChengRpHourRoomProperty": null,
+        "cancelRuleTag": null,
+        "passthroughInfo": null,
+        "cancelRuleVisualization": null,
+        "productPromotions": null,
+        "excitationText": null,
+        "applicablePeopleTipsB": null,
+        "accidentInsurance": false
+      },
+      "productName": "无餐食",
+      "productNameNew": null,
+      "minStocks": -1,
+      "available": 1,
+      "showPayType": 2,
+      "showAvourableType": 0,
+      "originalPriceRmb": 498,
+      "averagePrice": 538,
+      "averagePriceSubTotal": 498,
+      "averagePriceDecimal": 538,
+      "averagePriceSubTotalDecimal": 498,
+      "hongBaoVal": 0,
+      "couponVal": 40,
+      "allCouponVal": 40,
+      "allCouponValD": 40,
+      "fullAmount": 0,
+      "cutAmount": 0,
+      "partPrice": null,
+      "hongbaoFlag": 0,
+      "fullCutFlag": 0,
+      "appPromotionFlag": false,
+      "appPromotionUrl": null,
+      "windowFlag": true,
+      "windowDesp": "有窗",
+      "windowSpcDesp": "",
+      "giftDesc": "",
+      "additionInfoList": [
+        {
+          "key": "area",
+          "desp": "房间面积",
+          "content": "38㎡",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "bed",
+          "desp": "床型",
+          "content": "大床2米",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "window",
+          "desp": "有窗无窗/部分有窗",
+          "content": "有窗",
+          "contenTip": "",
+          "icontent": "有窗"
+        },
+        {
+          "key": "network",
+          "desp": "上网方式",
+          "content": "",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "floor",
+          "desp": "楼层",
+          "content": "2-5层(普通楼层)",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "personnum",
+          "desp": "可入住人数",
+          "content": "可入住2人",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "breakfast",
+          "desp": "早餐",
+          "content": "无早",
+          "contenTip": "",
+          "icontent": ""
+        },
+        {
+          "key": "smoke",
+          "desp": "吸烟政策",
+          "content": "禁止吸烟",
+          "contenTip": "",
+          "icontent": ""
+        }
+      ],
+      "guestType": 2,
+      "bookUrl": "/hotel/book?hotelid=01936001&uniqueid=01936001%3A3934%3A361415814%3A4_0_5459_00%2300%3A1&roomid=3934&rateplanid=361415814&ismj=1&checkindate=2024-12-18&checkoutdate=2024-12-19&mroomid=0004&drvtype=0&goodsuniqueid=91662630A3934A361415814A0Ae8231f3d476a9d1940fd9e576d5b89f2&isclockhotel=false&adultsNumber=2&childrenAges=",
+      "cancelType": 1,
+      "cancelRelType": 3,
+      "cancelMsg": "您可以在2024年12月18日18:00前免费取消或变更订单；在2024年12月18日18:00之后变更或取消，将收取全额房费作为违约费用。",
+      "cancelMsgLocal": "您可以在2024年12月18日18:00前免费取消或变更订单；在2024年12月18日18:00之后变更或取消，将收取全额房费作为违约费用。",
+      "supplierId": 151330,
+      "supplierType": 2,
+      "isFakeClockRoom": 0,
+      "fakeClockRoomDesc": null,
+      "supplierName": null,
+      "hbtag": 0,
+      "extraBedInfo": "不可加床",
+      "tipsList": [
+        {
+          "tipName": "便利设施",
+          "tipContent": "空调,多种规格电源插座,遮光窗帘,自动窗帘,床具:毯子或被子,衣柜/衣橱,220V电压插座,沙发",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "卫浴设施",
+          "tipContent": "拖鞋,24小时热水,吹风机,私人浴室,私人卫生间",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "电器多媒体",
+          "tipContent": "电脑,国际长途电话,有线频道,液晶电视机",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "食品饮品",
+          "tipContent": "电热水壶,咖啡壶/茶壶,瓶装水免费",
+          "mainSort": 0,
+          "subSort": 0
+        },
+        {
+          "tipName": "其他",
+          "tipContent": "如需要麻将机，需要补差价",
+          "mainSort": 0,
+          "subSort": 0
+        }
+      ],
+      "appHalfCount": 0,
+      "productType": 3,
+      "roomType": 0,
+      "stayTime": "",
+      "officeHours": null,
+      "stayAllTime": 0,
+      "area": null,
+      "bed": null,
+      "areaAdvantage": null,
+      "goodRate": null,
+      "commentCount": null,
+      "nRoom": -1,
+      "specialRoomName": "",
+      "specialRateplanName": "",
+      "describe": "",
+      "hongBaoType": 0,
+      "cancelTag": "限时取消",
+      "imgList": [
+        "https://pavo.elongstatic.com/i/ori/nw_1gzuYel0CZi.jpg"
+      ],
+      "videoList": null,
+      "tags": [
+        {
+          "id": -1,
+          "name": "立即确认",
+          "description": "订单提交后，酒店将第一时间确认您的订单",
+          "colorIndex": 0,
+          "available": true,
+          "color": "#4499ff",
+          "price": null,
+          "promotionFlag": 0
+        }
+      ],
+      "productSubName": "",
+      "ratePlanId": 361415814,
+      "advantageousText": [
+        "限时取消"
+      ],
+      "recommendText": "",
+      "recommendTag": null,
+      "productRecommendType": 0,
+      "roomId": "3934",
+      "mRoomId": "0004",
+      "promotionId": null,
+      "boTaoRpDescription": "",
+      "showPromTypeEntityList": [
+        {
+          "showPromType": 63,
+          "showPromTypeName": "可用红包",
+          "describe": "使用红包下单即可享受每晚立减40元",
+          "price": "40",
+          "allPrice": "40"
+        }
+      ],
+      "breakNum": 0,
+      "closed": 0,
+      "closingTime": null,
+      "lateCheckInTime": null,
+      "lastCheckInTime": null,
+      "earlyArriveDate": "",
+      "lateArriveDate": "",
+      "surplusHours": 0,
+      "sign": 0,
+      "srId": "bSHnynXTv2XZjBZhnbTPwoQP13wvC/27QPExuqZNSDh2DM1341Sp0srk9V1ybT//22j9KOGrkPxWb2CKzUKD4quCt6Er5q7NPOj3ilSN6B+BjevoqJQJ+8vZxHT4NczR+yMOm0mNGPQ=",
+      "cancelRuleVisualization": {
+        "freeCancelRuleShowDesc": "今天18点前免费取消",
+        "intFreeCancelRuleShowDesc": "今天18点前免费取消",
+        "freeCancelRuleShowDescLocal": "今天18点前免费取消",
+        "showDescColorIndex": "#43C19E",
+        "cancelRuleTables": [
+          {
+            "ruleTime": "北京时间",
+            "ruleLocalTime": "酒店当地时间",
+            "amount": "取消&修改费用",
+            "clolor": null,
+            "point": null
+          },
+          {
+            "ruleTime": "12-18 18:00 前",
+            "ruleLocalTime": "12-18 18:00 前",
+            "amount": "免费取消",
+            "clolor": "#43C19E",
+            "point": null
+          },
+          {
+            "ruleTime": "12-18 18:00 后",
+            "ruleLocalTime": "12-18 18:00 后",
+            "amount": "不可取消",
+            "clolor": null,
+            "point": null
+          }
+        ],
+        "intCancelRuleTables": [
+          {
+            "hotelLocalBeginTime": -28800000,
+            "hotelLocalEndTime": 1734516000000,
+            "guestLocalBeginTime": -28800000,
+            "guestLocalEndTime": 1734516000000,
+            "cancelDesc": "免费取消",
+            "cancelType": 0,
+            "amountPayment": null
+          },
+          {
+            "hotelLocalBeginTime": 1734516000000,
+            "hotelLocalEndTime": 4102329600000,
+            "guestLocalBeginTime": 1734516000000,
+            "guestLocalEndTime": 4102329600000,
+            "cancelDesc": "不可取消",
+            "cancelType": 2,
+            "amountPayment": null
+          }
+        ],
+        "cancelType": 3,
+        "cancelTimeLimit": 0
+      },
+      "productupgradingType": 0,
+      "productFlagItems": null,
+      "lastRoom": 0,
+      "unitPrice": null,
+      "goodsUniqId": "91662630A3934A361415814A0Ae8231f3d476a9d1940fd9e576d5b89f2",
+      "uniqueIdShow": "lm5b89f2",
+      "leisureRoomType": 0,
+      "leisureTipList": [],
+      "leisureTags": [],
+      "personNum": 2,
+      "reachPersonNum": 1,
+      "interProductExtend": null,
+      "productPriceInfo": {
+        "firstDayPricePayment": 0,
+        "firstDayPriceOrigin": 0,
+        "firstDayPriceRmb": 0,
+        "exchangeRate": 1,
+        "exchangeRatePayment": 1,
+        "dayPrices": [
+          {
+            "date": "2024-12-18",
+            "price": 0,
+            "rmbPrice": 0,
+            "originPrice": 0,
+            "hasBreakFast": false,
+            "breakFastNumber": 0,
+            "breakFastDescribe": null,
+            "saleCost": 0,
+            "bonusSaleCost": 0,
+            "addBedPriceOrigin": 0,
+            "status": null,
+            "salePriceWithDrrSubCoupon": 0,
+            "currency": "RMB",
+            "currencyPayment": "RMB",
+            "taxPrice": 0,
+            "taxPriceOrigin": 0,
+            "taxPriceRmb": 0,
+            "exchangeRate": 1,
+            "exchangeRatePayment": 1,
+            "breakfastInfoToShow": null,
+            "dayMealDesc": null,
+            "addBed": null
+          }
+        ],
+        "totalTaxPriceRmb": 0,
+        "totalTaxPrice": 0,
+        "totalTaxPriceOrigin": 0,
+        "totalPriceOrigin": 0,
+        "totalPricePayment": 0,
+        "totalPriceRmb": 0,
+        "totalPriceSubCoupon": 0,
+        "averagePriceSubCoupon": 0,
+        "averagePriceOrigin": 0,
+        "averagePriceRmb": 0,
+        "averagePricePayment": 0,
+        "averageTaxPriceOrigin": 0,
+        "averageTaxPriceRmb": 0,
+        "averageTaxPrice": 0,
+        "rebateTotalPrice": 0,
+        "rebateSum": 0,
+        "totalPromotionPrice": 40,
+        "totalPrice": 498,
+        "totalPricePromotionBefore": 538,
+        "averageTotalPrice": 498,
+        "pricePromotionBefore": 538,
+        "pricePromotionBeforeD": 538,
+        "priceSubCoupon": 498,
+        "priceSubCouponD": 498,
+        "additionaltax": null,
+        "googlePriceFA": null,
+        "totalPriceCouponD": 40
+      },
+      "bookingProduct": 0,
+      "giftPackages": null,
+      "limitSale": 0,
+      "remainTime": -1,
+      "ratePlanName": "标准价",
+      "productLabelList": [
+        {
+          "productLabelId": 23,
+          "productLabelName": "可用券",
+          "productLabelDesc": "下单即可享受红包优惠{0}元",
+          "productLabelSubtitle": "下单即可享受红包优惠",
+          "productLabelTypeId": 200,
+          "productLabelTypeName": "平台优惠",
+          "amount": 40,
+          "allAmount": 40,
+          "promotionCalcTypes": [
+            63
+          ],
+          "ctripPromotionId": null,
+          "promotionMethod": 1,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        },
+        {
+          "productLabelId": 247,
+          "productLabelName": "赠送里程",
+          "productLabelDesc": "本订单离店后可获得{0}倍里程",
+          "productLabelSubtitle": "本订单离店后可获得{0}倍里程",
+          "productLabelTypeId": 300,
+          "productLabelTypeName": "服务",
+          "amount": 0,
+          "allAmount": 0,
+          "promotionCalcTypes": null,
+          "ctripPromotionId": null,
+          "promotionMethod": 0,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        },
+        {
+          "productLabelId": 77,
+          "productLabelName": "立即确认",
+          "productLabelDesc": "订单提交后，酒店将第一时间确认您的订单",
+          "productLabelSubtitle": "订单提交后，酒店将第一时间确认您的订单",
+          "productLabelTypeId": 300,
+          "productLabelTypeName": "服务",
+          "amount": 0,
+          "allAmount": 0,
+          "promotionCalcTypes": null,
+          "ctripPromotionId": null,
+          "promotionMethod": 0,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        },
+        {
+          "productLabelId": 146,
+          "productLabelName": "可开专票",
+          "productLabelDesc": "该产品支持开具专票",
+          "productLabelSubtitle": "该产品支持开具专票",
+          "productLabelTypeId": 300,
+          "productLabelTypeName": "服务",
+          "amount": 0,
+          "allAmount": 0,
+          "promotionCalcTypes": null,
+          "ctripPromotionId": null,
+          "promotionMethod": 0,
+          "productLabelStyle": null,
+          "joinAcpriceCalc": 1
+        }
+      ],
+      "invoiceMode": 1,
+      "entitlementCloudList": null,
+      "promotion": null,
+      "entitlementCloudFreeRoom": 0,
+      "freeRoomPoints": null,
+      "directSale": 0,
+      "mileageRatioInfo": {
+        "totalRatio": 1,
+        "memberRatio": 1,
+        "productRatio": 1,
+        "maxAddTimes": null,
+        "maxAmount": null,
+        "activityMaxTimeAddAmount": null
+      },
+      "roomCategory": null,
+      "roomBedShowInfo": {
+        "listShowInfoShort": "1张2.0米特大床",
+        "listShowInfo": "1张2.0米特大床",
+        "extraBedShowInfo": "收费加床：每人每晚￥ 200",
+        "maxPersonNumber": null
+      },
+      "roomBedInfos": [
+        {
+          "roomDetailBed": [
+            {
+              "roomName": null,
+              "bedGroups": [
+                {
+                  "bedInfos": [
+                    {
+                      "bedTypeId": 1301,
+                      "bedWidth": 2,
+                      "bedCount": 1,
+                      "bedName": null,
+                      "bedNameEn": null,
+                      "remark": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "livingRoomBed": null
+        }
+      ],
+      "roomPropertyShowInfos": [
+        {
+          "facilityTypeId": 999,
+          "facilityTypeName": null,
+          "facilityTypeNameCn": null,
+          "iconUrl": null,
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": -1,
+              "facilityName": "楼层",
+              "facilityNameCn": "楼层",
+              "memo": "2-5层",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -2,
+              "facilityName": "房型面积",
+              "facilityNameCn": "房型面积",
+              "memo": "38m²",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -3,
+              "facilityName": "客房WIFI信息",
+              "facilityNameCn": "客房WIFI信息",
+              "memo": "WIFI免费",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -4,
+              "facilityName": "有窗",
+              "facilityNameCn": "有窗",
+              "memo": "有窗",
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": -5,
+              "facilityName": "禁烟",
+              "facilityNameCn": "禁烟",
+              "memo": "禁烟",
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 42,
+          "facilityTypeName": "网络与通讯",
+          "facilityTypeNameCn": "网络与通讯",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/042.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 2635,
+              "facilityName": "客房有线宽带",
+              "facilityNameCn": "客房有线宽带",
+              "memo": null,
+              "roomTypeTags": [
+                {
+                  "desc": "免费",
+                  "stress": "green"
+                }
+              ]
+            },
+            {
+              "facilityId": 1376,
+              "facilityName": "客房WIFI覆盖",
+              "facilityNameCn": "客房WIFI覆盖",
+              "memo": null,
+              "roomTypeTags": [
+                {
+                  "desc": "免费",
+                  "stress": "green"
+                }
+              ]
+            },
+            {
+              "facilityId": 77,
+              "facilityName": "国际长途电话",
+              "facilityNameCn": "国际长途电话",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 43,
+          "facilityTypeName": "客房布局",
+          "facilityTypeNameCn": "客房布局",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/044.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 131,
+              "facilityName": "沙发",
+              "facilityNameCn": "沙发",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1252,
+              "facilityName": "衣柜/衣橱",
+              "facilityNameCn": "衣柜/衣橱",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 45,
+          "facilityTypeName": "客房设施",
+          "facilityTypeNameCn": "客房设施",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/051.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 1242,
+              "facilityName": "遮光窗帘",
+              "facilityNameCn": "遮光窗帘",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1243,
+              "facilityName": "自动窗帘",
+              "facilityNameCn": "自动窗帘",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1250,
+              "facilityName": "床具:毯子或被子",
+              "facilityNameCn": "床具:毯子或被子",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 75,
+              "facilityName": "空调",
+              "facilityNameCn": "空调",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 7,
+          "facilityTypeName": "卫浴设施",
+          "facilityTypeNameCn": "卫浴设施",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/066.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 1270,
+              "facilityName": "24小时热水",
+              "facilityNameCn": "24小时热水",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 156,
+              "facilityName": "私人浴室",
+              "facilityNameCn": "私人浴室",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 149,
+              "facilityName": "私人卫生间",
+              "facilityNameCn": "私人卫生间",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 112,
+              "facilityName": "吹风机",
+              "facilityNameCn": "吹风机",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 109,
+              "facilityName": "拖鞋",
+              "facilityNameCn": "拖鞋",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 5,
+          "facilityTypeName": "媒体科技",
+          "facilityTypeNameCn": "媒体科技",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/048.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 1258,
+              "facilityName": "有线频道",
+              "facilityNameCn": "有线频道",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1259,
+              "facilityName": "液晶电视机",
+              "facilityNameCn": "液晶电视机",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 1149,
+              "facilityName": "电脑",
+              "facilityNameCn": "电脑",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 6,
+          "facilityTypeName": "食品饮品",
+          "facilityTypeNameCn": "食品饮品",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitiesIcons/055.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 2254,
+              "facilityName": "咖啡壶/茶壶",
+              "facilityNameCn": "咖啡壶/茶壶",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 119,
+              "facilityName": "瓶装水",
+              "facilityNameCn": "瓶装水",
+              "memo": null,
+              "roomTypeTags": [
+                {
+                  "desc": "免费",
+                  "stress": "green"
+                }
+              ]
+            },
+            {
+              "facilityId": 82,
+              "facilityName": "电热水壶",
+              "facilityNameCn": "电热水壶",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        },
+        {
+          "facilityTypeId": 4,
+          "facilityTypeName": "便利设施",
+          "facilityTypeNameCn": "便利设施",
+          "iconUrl": "https://m.elongstatic.com/hotel/h5/wechat-xcx/FacilitieTypeIcons/004.png",
+          "mRoomTypeFacilityInfos": [
+            {
+              "facilityId": 113,
+              "facilityName": "多种规格电源插座",
+              "facilityNameCn": "多种规格电源插座",
+              "memo": null,
+              "roomTypeTags": []
+            },
+            {
+              "facilityId": 130,
+              "facilityName": "220V电压插座",
+              "facilityNameCn": "220V电压插座",
+              "memo": null,
+              "roomTypeTags": []
+            }
+          ]
+        }
+      ],
+      "defect": "",
+      "roomExtendInfo": {
+        "adultStandard": null,
+        "allowChildrenStayName": "该房型欢迎携带儿童入住",
+        "bedInfo": {
+          "head": [
+            "年龄",
+            "床铺",
+            "费用"
+          ],
+          "footer": [
+            "该房型提供加床",
+            "加婴儿床政策请详询酒店"
+          ],
+          "description": [
+            "超过入住人数时，可能涉及额外费用，收费规则如下"
+          ],
+          "title": "床铺",
+          "details": [
+            {
+              "column1": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "17岁及以下"
+              },
+              "column3": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "免费"
+              },
+              "column2": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "使用现有床铺"
+              }
+            },
+            {
+              "column1": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "18岁及以上"
+              },
+              "column3": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "每人每晚￥ 200"
+              },
+              "column2": {
+                "columnCount": 1,
+                "rowCount": 1,
+                "content": "加床"
+              }
+            }
+          ]
+        },
+        "breakfastInfo": null
+      },
+      "roomSpecialInfo": {
+        "limitInfo": "仅接待持有中国内地签发的有效居民身份证的客人",
+        "certificationInfo": "需携带所有入住人的有效身份证，一人一证办理入住。",
+        "commentInfo": "如需要麻将机，需要补差价"
+      },
+      "personNumDesc": "可入住2人",
+      "breakNumDesc": "无早",
+      "hotelMeals": {
+        "mealCopywriting": "无餐食",
+        "hasMealTableDesc": true,
+        "dayMealTable": [
+          {
+            "date": 1734451200,
+            "dayMealCopywriting": "无餐食",
+            "useDynamicMeal": false,
+            "dynamicMealDesc": null,
+            "breakfastShare": 0,
+            "breakfastDesc": "",
+            "lunchShare": 0,
+            "lunchDesc": "",
+            "dinnerShare": 0,
+            "dinnerDesc": "",
+            "dateStr": null
+          },
+          {
+            "date": 1734537600,
+            "dayMealCopywriting": "无餐食",
+            "useDynamicMeal": false,
+            "dynamicMealDesc": null,
+            "breakfastShare": 0,
+            "breakfastDesc": "",
+            "lunchShare": 0,
+            "lunchDesc": "",
+            "dinnerShare": 0,
+            "dinnerDesc": "",
+            "dateStr": null
+          }
+        ]
+      },
+      "hasBreakfast": false,
+      "currencyPayment": "RMB",
+      "enterpriseCashBackProduct": false,
+      "totalCoupon": 0,
+      "ctripGroupMemberFlagNew": 0,
+      "ifReigsterGroup": false,
+      "groupMemberFlagNew": 0,
+      "doneRegister": false,
+      "thirdpartyMemberGradeDesc": null,
+      "thirdpartyMemberExpiredTime": null,
+      "groupMemberInfo": null,
+      "instalmentPayment": null,
+      "incomeIds": {
+        "63": "4316861940713783302"
+      },
+      "applicableNationalityText": "此价格仅适用中国大陆客人",
+      "cLongProduct": false,
+      "setVouch": false,
+      "decimal": false,
+      "boTaoRP": false,
+      "rateplanStructureNameCn": "无餐食",
+      "onTimeConfirm": true
+    }
+  ],
+  "allFull": true,
+  "roomType": 0,
+  "tags": [
+    {
+      "id": 63,
+      "name": "可用红包",
+      "description": "可用红包",
+      "colorIndex": 0,
+      "available": true,
+      "color": "#FF5555",
+      "price": null,
+      "promotionFlag": 0
+    }
+  ],
+  "roomId": "0004",
+  "allClose": false,
+  "leisureRoomType": 0,
+  "sign": 0,
+  "leisureTipList": [],
+  "leisureTags": [],
+  "personNum": 2,
+  "reachPersonNum": 1,
+  "productLabelList": [
+    {
+      "productLabelId": 23,
+      "productLabelName": "可用券",
+      "productLabelDesc": "下单即可享受红包优惠{0}元",
+      "productLabelSubtitle": "下单即可享受红包优惠",
+      "productLabelTypeId": 200,
+      "productLabelTypeName": "平台优惠",
+      "amount": 0,
+      "allAmount": 0,
+      "promotionCalcTypes": null,
+      "ctripPromotionId": null,
+      "promotionMethod": 1,
+      "productLabelStyle": null,
+      "joinAcpriceCalc": 1
+    },
+    {
+      "productLabelId": 77,
+      "productLabelName": "立即确认",
+      "productLabelDesc": "订单提交后，酒店将第一时间确认您的订单",
+      "productLabelSubtitle": "订单提交后，酒店将第一时间确认您的订单",
+      "productLabelTypeId": 300,
+      "productLabelTypeName": "服务",
+      "amount": 0,
+      "allAmount": 0,
+      "promotionCalcTypes": null,
+      "ctripPromotionId": null,
+      "promotionMethod": 0,
+      "productLabelStyle": null,
+      "joinAcpriceCalc": 1
+    },
+    {
+      "productLabelId": 146,
+      "productLabelName": "可开专票",
+      "productLabelDesc": "该产品支持开具专票",
+      "productLabelSubtitle": "该产品支持开具专票",
+      "productLabelTypeId": 300,
+      "productLabelTypeName": "服务",
+      "amount": 0,
+      "allAmount": 0,
+      "promotionCalcTypes": null,
+      "ctripPromotionId": null,
+      "promotionMethod": 0,
+      "productLabelStyle": null,
+      "joinAcpriceCalc": 1
+    },
+    {
+      "productLabelId": 186,
+      "productLabelName": "酒店套餐",
+      "productLabelDesc": "含酒店套餐服务",
+      "productLabelSubtitle": "含酒店套餐",
+      "productLabelTypeId": 300,
+      "productLabelTypeName": "服务",
+      "amount": 0,
+      "allAmount": 0,
+      "promotionCalcTypes": null,
+      "ctripPromotionId": null,
+      "promotionMethod": 0,
+      "productLabelStyle": null,
+      "joinAcpriceCalc": 1
+    }
+  ],
+  "roomLabelList": [
+    {
+      "productLabelId": 23,
+      "productLabelName": "可用券",
+      "productLabelDesc": "下单即可享受红包优惠{0}元",
+      "productLabelSubtitle": "下单即可享受红包优惠",
+      "productLabelTypeId": 200,
+      "productLabelTypeName": "平台优惠",
+      "amount": 0,
+      "allAmount": 0,
+      "promotionCalcTypes": null,
+      "ctripPromotionId": null,
+      "promotionMethod": 1,
+      "productLabelStyle": null,
+      "joinAcpriceCalc": 1
+    }
+  ],
+  "roomExtraBedInfo": "收费加床:200.0000RMB/床/间夜",
+  "childrenAndExtraBedShowInfo": {
+    "allowChildrenStayName": "该房型允许携带儿童入住",
+    "adultStandard": "18岁及以上客人按成人收费",
+    "description": [
+      "加床政策、儿童人数请参考您所选择的客房政策，若超过房型限定人数，可能需要收取额外费用。提出的任何请求均需要获得酒店的确认，所有服务详情以酒店告知为准。"
+    ],
+    "bedInfo": {
+      "head": [
+        "年龄",
+        "床铺",
+        "费用"
+      ],
+      "description": [
+        "每间客房限制17岁及以下儿童，和成人共用现有床铺",
+        "每间客房最多可容纳1张加床",
+        "超过入住人数时，可能涉及额外费用，收费规则如下"
+      ],
+      "footer": [
+        "该房型提供加床",
+        "该房型不提供加婴儿床"
+      ],
+      "details": [
+        {
+          "column1": {
+            "columnCount": 1,
+            "rowCount": 1,
+            "content": "17岁及以下"
+          },
+          "column2": {
+            "columnCount": 1,
+            "rowCount": 1,
+            "content": "使用现有床铺"
+          },
+          "column3": {
+            "columnCount": 1,
+            "rowCount": 1,
+            "content": "免费"
+          }
+        },
+        {
+          "column1": {
+            "columnCount": 1,
+            "rowCount": 1,
+            "content": "18岁及以上"
+          },
+          "column2": {
+            "columnCount": 1,
+            "rowCount": 1,
+            "content": "加床"
+          },
+          "column3": {
+            "columnCount": 1,
+            "rowCount": 1,
+            "content": "￥200每人每晚"
+          }
+        }
+      ],
+      "title": "床铺"
+    },
+    "breakfastInfo": null
+  },
+  "directSale": 0,
+  "roomCategory": null,
+  "roomInstalmentPayment": null,
+  "roomAveragePrice": 538,
+  "showFlag": "T",
+  "newTipsList": [
+    {
+      "tipName": "便利设施",
+      "tipContent": "空调,多种规格电源插座,遮光窗帘,自动窗帘,床具:毯子或被子,衣柜/衣橱,220V电压插座,沙发",
+      "mainSort": 0,
+      "subSort": 0
+    },
+    {
+      "tipName": "卫浴设施",
+      "tipContent": "拖鞋,24小时热水,吹风机,私人浴室,私人卫生间",
+      "mainSort": 0,
+      "subSort": 0
+    },
+    {
+      "tipName": "电器多媒体",
+      "tipContent": "电脑,国际长途电话,有线频道,液晶电视机",
+      "mainSort": 0,
+      "subSort": 0
+    },
+    {
+      "tipName": "食品饮品",
+      "tipContent": "电热水壶,咖啡壶/茶壶,瓶装水免费",
+      "mainSort": 0,
+      "subSort": 0
+    },
+    {
+      "tipName": "其他",
+      "tipContent": "如需要麻将机，需要补差价",
+      "mainSort": 0,
+      "subSort": 0
+    }
+  ],
+  "newImgList": [
+    "https://pavo.elongstatic.com/i/ori/nw_1gzuYel0CZi.jpg"
+  ],
+  "coverImageUrl": "https://pavo.elongstatic.com/i/ori/nw_1gzuYel0CZi.jpg",
+  "decimal": false
+}

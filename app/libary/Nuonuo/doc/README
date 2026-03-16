@@ -1,0 +1,12 @@
+诺诺开放平台SDK
+
+SDK目录
+|-- doc 文档
+|-- samples 示例
+|-- lib 核心类
+
+依赖
+curl扩展
+
+使用方法
+参照samples中的示例调用接口

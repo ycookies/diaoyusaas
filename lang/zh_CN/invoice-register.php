@@ -1,0 +1,37 @@
+<?php
+return [
+    'labels'  => [
+        'InvoiceRegister'  => '数电商户申请开户',
+        'invoice-register' => '数电商户申请开户',
+    ],
+    'fields'  => [
+        'hotel_id'                     => '酒店ID',
+        'saler_nuonuo_psd'             => '登陆密码',
+        'salerName'                    => '销方公司名',
+        'salerTaxNum'                  => '销方税号',
+        'salerAccount'                 => '销方开户行及账号',
+        'salerAddress'                 => '销方地址电话',
+        'invoiceLine'                  => '发票种类',
+        'clerk'                        => '开票人',
+        'checker'                      => '复核人',
+        'payee'                        => '收款人',
+        'extensionNumber'              => '分机号',
+        'departmentId'                 => '部门ID',
+        'clerkId'                      => '开票员ID',
+        'InterCityIndicator'           => '跨地市标志',
+        'PropertyOwnershipCertificate' => '产权证书',
+        'AreaUnit'                     => '面积单位',
+        'region'                       => '区域',
+        'salerAddress_as'              => '详细地址',
+        'invoiceLine_as'               => '发票种类',
+        'is_shudian'                   => '是否具备数电能力',
+        'specificFactor'               => '特定要素特定要素字段',
+        'favouredPolicyFlag'           => '优惠政策标识',
+        'goodCode'                     => '商品编号',
+        'goodName'                     => '商品名称',
+        'taxRate'                      => '电费税率',
+        'status'                       => '开户状态',
+    ],
+    'options' => [
+    ],
+];

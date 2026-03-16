@@ -1,0 +1,32 @@
+{
+    "name": "eric/wxpay",
+    "alias": "微信支付",
+    "description": "微信公众号支付",
+    "type": "library",
+    "keywords": ["dcat-admin", "extension"],
+    "homepage": "https://github.com/ycookies/dcatadmin/wxpay",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "eRic",
+            "email": "3664839@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "dcat/laravel-admin": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dcat\\Admin\\Wxpay\\": "src/"
+        }
+    },
+    "extra": {
+        "dcat-admin": "Dcat\\Admin\\Wxpay\\WxpayServiceProvider",
+        "laravel": {
+            "providers": [
+                "Dcat\\Admin\\Wxpay\\WxpayServiceProvider"
+            ]
+        }
+    }
+}
